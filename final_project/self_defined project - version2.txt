@@ -1,0 +1,21 @@
+Idea:
+Building Modeling Engine
+
+Inspired by project2B, the engine will pre-determine some 3D and 2D model for user, including: 3D: cube, pyramids, sphere, 2D: square, line, window
+
+User can either (1) Call function DrawCube(), DrawPyramids(), DrawSphere(), etc to draw a building or other shape by themselves 
+OR (2) Call function: DrawBuilding(double width, double length, double height, int num_of_floor, int num_of_room). 
+This function will draw a building for the user with the color they specified. 
+Also, similar with all the Draw*() function at part(1), DrawBuilding(...) can cooperate with other Draw() function to create different shape. 
+
+Other features: color function (reuse Brown(), LightBrown(), etc from project 2B and add more colors).
+
+--------------------------------------------
+Inspired by Auto-Speech Recognition of the Youtube, automatica adding the captions to the video is really helpful. Also, I see the shortcome of this is it only recognize the English rather than other language.
+If there is the script of the subtitile that been able to translate to English, and write to the video, that's helpful the enlarge the range of audience.
+
+Details:
+The program will get the file that contain all the subtitiles and its time in the video.
+Program would read the time and put the subtitle to the video in the indicated time clip.
+The program may skip the speech recognition function, I will try to implement adding the caption with existing text first. Then, try to add the speech recognition if the time is allowed.
+(* subtitles are writting in the text)
