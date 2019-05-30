@@ -1,0 +1,37 @@
+1, sudo apt-get install cmake
+
+2, install opengl 
+sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+
+
+# when use VTK-6.3 instead of 8.1, need to downgrade gcc into gcc5
+process:
+3.1 uninstall original gcc and g++ (any version higher than gcc5)
+3.2 install gcc/g++ 5
+3.3 link gcc-5 and g++-5 to default gcc and g++   #This step is really important!
+'''
+sudo ln -s /usr/bin/g++-5 /usr/bin/g++
+sudo ln -s /usr/bin/gcc-5 /usr/bin/gcc
+'''
+
+
+3, install vtk, in usr/bin/
+sudo wget https://www.vtk.org/files/release/6.3/VTK-6.3.0.tar.gz
+tar -xvf VTK-6.3.0.tar.gz
+cd VTK-6.3.0/
+cmake .
+make 
+
+4, download CMakeList for lunix
+in the folder contain CMakeList.txt(.lunix) (i.e. project1A/)
+
+cmake .
+# makes Makefile
+make
+
+5, run
+./project1A
+
+6, 
+../differencer/differencer proj1A.png allColors.png
+project1A $../differencer/differencer project1A differencer
