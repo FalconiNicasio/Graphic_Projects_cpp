@@ -1,0 +1,1436 @@
+There are 2566541 triangles in vector
+Triangle 0
+Triangle: (935.0336914062, 252.6636505127), (935.0184326172, 253.5374298096), (933.7113647461, 253.3455657959) 
+Going up triangle: 
+         Triangle: (935.0184326172, 253.5374298096), (933.7113647461, 253.3455657959), (935.0217831343, 253.3455657959) 
+Going down downtri: 
+         Triangle: (935.0336914062, 252.6636505127), (933.7113647461, 253.3455657959), (935.0217831343, 253.3455657959) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 253, hiY = 253
+rowMin: 252.6636505127, rowMax: 253.3455657959, flat_lx: 933.7113647461, flat_rx: 935.0217831343, top_x: 935.0336914062
+Operating on scanline 253
+Fragments go from lowX = 935, hiY = 935
+Triangle is writing to row 253, column 935
+End routine for 0
+---------------
+Triangle 1
+Triangle: (933.7084350586, 253.5145721436), (933.7113647461, 253.3455657959), (935.0184326172, 253.5374298096) 
+Going up triangle: 
+         Triangle: (935.0184326172, 253.5374298096), (933.7084350586, 253.5145721436), (934.8627154492, 253.5145721436) 
+Going down downtri: 
+         Triangle: (933.7113647461, 253.3455657959), (933.7084350586, 253.5145721436), (934.8627154492, 253.5145721436) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 254, hiY = 253
+End routine for 1
+---------------
+Triangle 2
+Triangle: (935.0336914062, 252.6636505127), (936.3399047852, 252.9052886963), (935.0184326172, 253.5374298096) 
+Going up triangle: 
+         Triangle: (935.0184326172, 253.5374298096), (936.3399047852, 252.9052886963), (935.0294716838, 252.9052886963) 
+Going down downtri: 
+         Triangle: (935.0336914062, 252.6636505127), (936.3399047852, 252.9052886963), (935.0294716838, 252.9052886963) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 253, hiY = 252
+End routine for 2
+---------------
+Triangle 3
+Triangle: (936.3284912109, 253.5603027344), (935.0184326172, 253.5374298096), (936.3399047852, 252.9052886963) 
+Going up triangle: 
+         Triangle: (936.3284912109, 253.5603027344), (935.0184326172, 253.5374298096), (936.3288897701, 253.5374298096) 
+Going down downtri: 
+         Triangle: (936.3399047852, 252.9052886963), (935.0184326172, 253.5374298096), (936.3288897701, 253.5374298096) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 253, hiY = 253
+rowMin: 252.9052886963, rowMax: 253.5374298096, flat_lx: 935.0184326172, flat_rx: 936.3288897701, top_x: 936.3399047852
+Operating on scanline 253
+No Fragments: lowX = 937, hiX = 936
+End routine for 3
+---------------
+Triangle 4
+Triangle: (931.0884399414, 253.4688415527), (932.3984375, 253.4916992188), (931.0655517578, 254.7788391113) 
+Going up triangle: 
+         Triangle: (931.0655517578, 254.7788391113), (932.3984375, 253.4916992188), (931.0880405739, 253.4916992188) 
+Going down downtri: 
+         Triangle: (931.0884399414, 253.4688415527), (932.3984375, 253.4916992188), (931.0880405739, 253.4916992188) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 254, hiY = 253
+End routine for 4
+---------------
+Triangle 5
+Triangle: (932.3756103516, 254.8016967773), (931.0655517578, 254.7788391113), (932.3984375, 253.4916992188) 
+Going up triangle: 
+         Triangle: (932.3756103516, 254.8016967773), (931.0655517578, 254.7788391113), (932.3760086541, 254.7788391113) 
+Going down downtri: 
+         Triangle: (932.3984375, 253.4916992188), (931.0655517578, 254.7788391113), (932.3760086541, 254.7788391113) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 254, hiY = 254
+rowMin: 253.4916992188, rowMax: 254.7788391113, flat_lx: 931.0655517578, flat_rx: 932.3760086541, top_x: 932.3984375
+Operating on scanline 254
+Fragments go from lowX = 932, hiY = 932
+Triangle is writing to row 254, column 932
+End routine for 5
+---------------
+Triangle 6
+Triangle: (932.3984375, 253.4916992188), (933.7084350586, 253.5145721436), (932.3756103516, 254.8016967773) 
+Going up triangle: 
+         Triangle: (932.3756103516, 254.8016967773), (933.7084350586, 253.5145721436), (932.3980389316, 253.5145721436) 
+Going down downtri: 
+         Triangle: (932.3984375, 253.4916992188), (933.7084350586, 253.5145721436), (932.3980389316, 253.5145721436) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 254, hiY = 253
+End routine for 6
+---------------
+Triangle 7
+Triangle: (933.685546875, 254.8245697021), (932.3756103516, 254.8016967773), (933.7084350586, 253.5145721436) 
+Going up triangle: 
+         Triangle: (933.685546875, 254.8245697021), (932.3756103516, 254.8016967773), (933.6859465091, 254.8016967773) 
+Going down downtri: 
+         Triangle: (933.7084350586, 253.5145721436), (932.3756103516, 254.8016967773), (933.6859465091, 254.8016967773) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 254, hiY = 254
+rowMin: 253.5145721436, rowMax: 254.8016967773, flat_lx: 932.3756103516, flat_rx: 933.6859465091, top_x: 933.7084350586
+Operating on scanline 254
+No Fragments: lowX = 934, hiX = 933
+End routine for 7
+---------------
+Triangle 8
+Triangle: (933.7084350586, 253.5145721436), (935.0184326172, 253.5374298096), (933.685546875, 254.8245697021) 
+Going up triangle: 
+         Triangle: (933.685546875, 254.8245697021), (935.0184326172, 253.5374298096), (933.7080356911, 253.5374298096) 
+Going down downtri: 
+         Triangle: (933.7084350586, 253.5145721436), (935.0184326172, 253.5374298096), (933.7080356911, 253.5374298096) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 254, hiY = 253
+End routine for 8
+---------------
+Triangle 9
+Triangle: (934.9955444336, 254.8474273682), (933.685546875, 254.8245697021), (935.0184326172, 253.5374298096) 
+Going up triangle: 
+         Triangle: (934.9955444336, 254.8474273682), (933.685546875, 254.8245697021), (934.9959438011, 254.8245697021) 
+Going down downtri: 
+         Triangle: (935.0184326172, 253.5374298096), (933.685546875, 254.8245697021), (934.9959438011, 254.8245697021) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 254, hiY = 254
+rowMin: 253.5374298096, rowMax: 254.8245697021, flat_lx: 933.685546875, flat_rx: 934.9959438011, top_x: 935.0184326172
+Operating on scanline 254
+Fragments go from lowX = 935, hiY = 935
+Triangle is writing to row 254, column 935
+End routine for 9
+---------------
+Triangle 10
+Triangle: (935.0184326172, 253.5374298096), (936.3284912109, 253.5603027344), (934.9955444336, 254.8474273682) 
+Going up triangle: 
+         Triangle: (934.9955444336, 254.8474273682), (936.3284912109, 253.5603027344), (935.0180329831, 253.5603027344) 
+Going down downtri: 
+         Triangle: (935.0184326172, 253.5374298096), (936.3284912109, 253.5603027344), (935.0180329831, 253.5603027344) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 254, hiY = 253
+End routine for 10
+---------------
+Triangle 11
+Triangle: (936.3056030273, 254.870300293), (934.9955444336, 254.8474273682), (936.3284912109, 253.5603027344) 
+Going up triangle: 
+         Triangle: (936.3056030273, 254.870300293), (934.9955444336, 254.8474273682), (936.3060026614, 254.8474273682) 
+Going down downtri: 
+         Triangle: (936.3284912109, 253.5603027344), (934.9955444336, 254.8474273682), (936.3060026614, 254.8474273682) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 254, hiY = 254
+rowMin: 253.5603027344, rowMax: 254.8474273682, flat_lx: 934.9955444336, flat_rx: 936.3060026614, top_x: 936.3284912109
+Operating on scanline 254
+Fragments go from lowX = 936, hiY = 936
+Triangle is writing to row 254, column 936
+End routine for 11
+---------------
+Triangle 12
+Triangle: (936.3284912109, 253.5603027344), (937.6384277344, 253.5831604004), (936.3056030273, 254.870300293) 
+Going up triangle: 
+         Triangle: (936.3056030273, 254.870300293), (937.6384277344, 253.5831604004), (936.3280918434, 253.5831604004) 
+Going down downtri: 
+         Triangle: (936.3284912109, 253.5603027344), (937.6384277344, 253.5831604004), (936.3280918434, 253.5831604004) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 254, hiY = 253
+End routine for 12
+---------------
+Triangle 13
+Triangle: (937.6156005859, 254.893157959), (936.3056030273, 254.870300293), (937.6384277344, 253.5831604004) 
+Going up triangle: 
+         Triangle: (937.6156005859, 254.893157959), (936.3056030273, 254.870300293), (937.6159988885, 254.870300293) 
+Going down downtri: 
+         Triangle: (937.6384277344, 253.5831604004), (936.3056030273, 254.870300293), (937.6159988885, 254.870300293) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 254, hiY = 254
+rowMin: 253.5831604004, rowMax: 254.870300293, flat_lx: 936.3056030273, flat_rx: 937.6159988885, top_x: 937.6384277344
+Operating on scanline 254
+No Fragments: lowX = 938, hiX = 937
+End routine for 13
+---------------
+Triangle 14
+Triangle: (919.2717285156, 254.791809082), (919.2526855469, 255.883026123), (917.9451293945, 255.7200012207) 
+Going up triangle: 
+         Triangle: (919.2526855469, 255.883026123), (917.9451293945, 255.7200012207), (919.2555305154, 255.7200012207) 
+Going down downtri: 
+         Triangle: (919.2717285156, 254.791809082), (917.9451293945, 255.7200012207), (919.2555305154, 255.7200012207) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 255
+rowMin: 254.791809082, rowMax: 255.7200012207, flat_lx: 917.9451293945, flat_rx: 919.2555305154, top_x: 919.2717285156
+Operating on scanline 255
+Fragments go from lowX = 919, hiY = 919
+Triangle is writing to row 255, column 919
+End routine for 14
+---------------
+Triangle 15
+Triangle: (917.9426879883, 255.860168457), (917.9451293945, 255.7200012207), (919.2526855469, 255.883026123) 
+Going up triangle: 
+         Triangle: (919.2526855469, 255.883026123), (917.9426879883, 255.860168457), (919.0693535442, 255.860168457) 
+Going down downtri: 
+         Triangle: (917.9451293945, 255.7200012207), (917.9426879883, 255.860168457), (919.0693535442, 255.860168457) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 15
+---------------
+Triangle 16
+Triangle: (919.2717285156, 254.791809082), (920.5817871094, 254.8146820068), (919.2526855469, 255.883026123) 
+Going up triangle: 
+         Triangle: (919.2526855469, 255.883026123), (920.5817871094, 254.8146820068), (919.2713293573, 254.8146820068) 
+Going down downtri: 
+         Triangle: (919.2717285156, 254.791809082), (920.5817871094, 254.8146820068), (919.2713293573, 254.8146820068) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 16
+---------------
+Triangle 17
+Triangle: (920.5627441406, 255.9058990479), (919.2526855469, 255.883026123), (920.5817871094, 254.8146820068) 
+Going up triangle: 
+         Triangle: (920.5627441406, 255.9058990479), (919.2526855469, 255.883026123), (920.563143299, 255.883026123) 
+Going down downtri: 
+         Triangle: (920.5817871094, 254.8146820068), (919.2526855469, 255.883026123), (920.563143299, 255.883026123) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 255
+rowMin: 254.8146820068, rowMax: 255.883026123, flat_lx: 919.2526855469, flat_rx: 920.563143299, top_x: 920.5817871094
+Operating on scanline 255
+No Fragments: lowX = 921, hiX = 920
+End routine for 17
+---------------
+Triangle 18
+Triangle: (921.8955688477, 254.6187744141), (921.8726806641, 255.9287719727), (920.5817871094, 254.8146820068) 
+Going up triangle: 
+         Triangle: (921.8726806641, 255.9287719727), (920.5817871094, 254.8146820068), (921.8921459642, 254.8146820068) 
+Going down downtri: 
+         Triangle: (921.8955688477, 254.6187744141), (920.5817871094, 254.8146820068), (921.8921459642, 254.8146820068) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 18
+---------------
+Triangle 19
+Triangle: (920.5627441406, 255.9058990479), (920.5817871094, 254.8146820068), (921.8726806641, 255.9287719727) 
+Going up triangle: 
+         Triangle: (921.8726806641, 255.9287719727), (920.5627441406, 255.9058990479), (921.8461778572, 255.9058990479) 
+Going down downtri: 
+         Triangle: (920.5817871094, 254.8146820068), (920.5627441406, 255.9058990479), (921.8461778572, 255.9058990479) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 255
+rowMin: 254.8146820068, rowMax: 255.9058990479, flat_lx: 920.5627441406, flat_rx: 921.8461778572, top_x: 920.5817871094
+Operating on scanline 255
+No Fragments: lowX = 921, hiX = 920
+End routine for 19
+---------------
+Triangle 20
+Triangle: (921.8955688477, 254.6187744141), (923.2055664062, 254.6416320801), (921.8726806641, 255.9287719727) 
+Going up triangle: 
+         Triangle: (921.8726806641, 255.9287719727), (923.2055664062, 254.6416320801), (921.8951694802, 254.6416320801) 
+Going down downtri: 
+         Triangle: (921.8955688477, 254.6187744141), (923.2055664062, 254.6416320801), (921.8951694802, 254.6416320801) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 20
+---------------
+Triangle 21
+Triangle: (923.2055664062, 254.6416320801), (924.5155639648, 254.6645050049), (923.1826782227, 255.9516296387) 
+Going up triangle: 
+         Triangle: (923.1826782227, 255.9516296387), (924.5155639648, 254.6645050049), (923.2051667721, 254.6645050049) 
+Going down downtri: 
+         Triangle: (923.2055664062, 254.6416320801), (924.5155639648, 254.6645050049), (923.2051667721, 254.6645050049) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 21
+---------------
+Triangle 22
+Triangle: (924.4927368164, 255.9745025635), (923.1826782227, 255.9516296387), (924.5155639648, 254.6645050049) 
+Going up triangle: 
+         Triangle: (924.4927368164, 255.9745025635), (923.1826782227, 255.9516296387), (924.4931353848, 255.9516296387) 
+Going down downtri: 
+         Triangle: (924.5155639648, 254.6645050049), (923.1826782227, 255.9516296387), (924.4931353848, 255.9516296387) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 255
+rowMin: 254.6645050049, rowMax: 255.9516296387, flat_lx: 923.1826782227, flat_rx: 924.4931353848, top_x: 924.5155639648
+Operating on scanline 255
+No Fragments: lowX = 925, hiX = 924
+End routine for 22
+---------------
+Triangle 23
+Triangle: (924.5155639648, 254.6645050049), (925.8255615234, 254.6873626709), (924.4927368164, 255.9745025635) 
+Going up triangle: 
+         Triangle: (924.4927368164, 255.9745025635), (925.8255615234, 254.6873626709), (924.5151656623, 254.6873626709) 
+Going down downtri: 
+         Triangle: (924.5155639648, 254.6645050049), (925.8255615234, 254.6873626709), (924.5151656623, 254.6873626709) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 23
+---------------
+Triangle 24
+Triangle: (925.8026733398, 255.9973602295), (924.4927368164, 255.9745025635), (925.8255615234, 254.6873626709) 
+Going up triangle: 
+         Triangle: (925.8026733398, 255.9973602295), (924.4927368164, 255.9745025635), (925.8030727073, 255.9745025635) 
+Going down downtri: 
+         Triangle: (925.8255615234, 254.6873626709), (924.4927368164, 255.9745025635), (925.8030727073, 255.9745025635) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 255
+rowMin: 254.6873626709, rowMax: 255.9745025635, flat_lx: 924.4927368164, flat_rx: 925.8030727073, top_x: 925.8255615234
+Operating on scanline 255
+No Fragments: lowX = 926, hiX = 925
+End routine for 24
+---------------
+Triangle 25
+Triangle: (925.8255615234, 254.6873626709), (927.135559082, 254.7102355957), (925.8026733398, 255.9973602295) 
+Going up triangle: 
+         Triangle: (925.8026733398, 255.9973602295), (927.135559082, 254.7102355957), (925.8251618893, 254.7102355957) 
+Going down downtri: 
+         Triangle: (925.8255615234, 254.6873626709), (927.135559082, 254.7102355957), (925.8251618893, 254.7102355957) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 25
+---------------
+Triangle 26
+Triangle: (927.1126708984, 256.0202331543), (925.8026733398, 255.9973602295), (927.135559082, 254.7102355957) 
+Going up triangle: 
+         Triangle: (927.1126708984, 256.0202331543), (925.8026733398, 255.9973602295), (927.1130705325, 255.9973602295) 
+Going down downtri: 
+         Triangle: (927.135559082, 254.7102355957), (925.8026733398, 255.9973602295), (927.1130705325, 255.9973602295) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 255
+rowMin: 254.7102355957, rowMax: 255.9973602295, flat_lx: 925.8026733398, flat_rx: 927.1130705325, top_x: 927.135559082
+Operating on scanline 255
+Fragments go from lowX = 927, hiY = 927
+Triangle is writing to row 255, column 927
+End routine for 26
+---------------
+Triangle 27
+Triangle: (927.135559082, 254.7102355957), (928.4456176758, 254.7330932617), (927.1126708984, 256.0202331543) 
+Going up triangle: 
+         Triangle: (927.1126708984, 256.0202331543), (928.4456176758, 254.7330932617), (927.1351597145, 254.7330932617) 
+Going down downtri: 
+         Triangle: (927.135559082, 254.7102355957), (928.4456176758, 254.7330932617), (927.1351597145, 254.7330932617) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 27
+---------------
+Triangle 28
+Triangle: (928.4227294922, 256.0430908203), (927.1126708984, 256.0202331543), (928.4456176758, 254.7330932617) 
+Going up triangle: 
+         Triangle: (928.4227294922, 256.0430908203), (927.1126708984, 256.0202331543), (928.4231288597, 256.0202331543) 
+Going down downtri: 
+         Triangle: (928.4456176758, 254.7330932617), (927.1126708984, 256.0202331543), (928.4231288597, 256.0202331543) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.7330932617, rowMax: 256.0202331543, flat_lx: 927.1126708984, flat_rx: 928.4231288597, top_x: 928.4456176758
+Operating on scanline 255
+No Fragments: lowX = 929, hiX = 928
+Operating on scanline 256
+Fragments go from lowX = 928, hiY = 928
+Triangle is writing to row 256, column 928
+End routine for 28
+---------------
+Triangle 29
+Triangle: (928.4456176758, 254.7330932617), (929.7555541992, 254.7559661865), (928.4227294922, 256.0430908203) 
+Going up triangle: 
+         Triangle: (928.4227294922, 256.0430908203), (929.7555541992, 254.7559661865), (928.4452180417, 254.7559661865) 
+Going down downtri: 
+         Triangle: (928.4456176758, 254.7330932617), (929.7555541992, 254.7559661865), (928.4452180417, 254.7559661865) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 29
+---------------
+Triangle 30
+Triangle: (929.7327270508, 256.0659484863), (928.4227294922, 256.0430908203), (929.7555541992, 254.7559661865) 
+Going up triangle: 
+         Triangle: (929.7327270508, 256.0659484863), (928.4227294922, 256.0430908203), (929.7331253579, 256.0430908203) 
+Going down downtri: 
+         Triangle: (929.7555541992, 254.7559661865), (928.4227294922, 256.0430908203), (929.7331253579, 256.0430908203) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.7559661865, rowMax: 256.0430908203, flat_lx: 928.4227294922, flat_rx: 929.7331253579, top_x: 929.7555541992
+Operating on scanline 255
+No Fragments: lowX = 930, hiX = 929
+Operating on scanline 256
+Fragments go from lowX = 929, hiY = 929
+Triangle is writing to row 256, column 929
+End routine for 30
+---------------
+Triangle 31
+Triangle: (929.7555541992, 254.7559661865), (931.0655517578, 254.7788391113), (929.7327270508, 256.0659484863) 
+Going up triangle: 
+         Triangle: (929.7327270508, 256.0659484863), (931.0655517578, 254.7788391113), (929.7551556262, 254.7788391113) 
+Going down downtri: 
+         Triangle: (929.7555541992, 254.7559661865), (931.0655517578, 254.7788391113), (929.7551556262, 254.7788391113) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 31
+---------------
+Triangle 32
+Triangle: (931.0426635742, 256.0888366699), (929.7327270508, 256.0659484863), (931.0655517578, 254.7788391113) 
+Going up triangle: 
+         Triangle: (931.0426635742, 256.0888366699), (929.7327270508, 256.0659484863), (931.0430634749, 256.0659484863) 
+Going down downtri: 
+         Triangle: (931.0655517578, 254.7788391113), (929.7327270508, 256.0659484863), (931.0430634749, 256.0659484863) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.7788391113, rowMax: 256.0659484863, flat_lx: 929.7327270508, flat_rx: 931.0430634749, top_x: 931.0655517578
+Operating on scanline 255
+Fragments go from lowX = 931, hiY = 931
+Triangle is writing to row 255, column 931
+Operating on scanline 256
+No Fragments: lowX = 930, hiX = 931
+End routine for 32
+---------------
+Triangle 33
+Triangle: (931.0655517578, 254.7788391113), (932.3756103516, 254.8016967773), (931.0426635742, 256.0888366699) 
+Going up triangle: 
+         Triangle: (931.0426635742, 256.0888366699), (932.3756103516, 254.8016967773), (931.0651523903, 254.8016967773) 
+Going down downtri: 
+         Triangle: (931.0655517578, 254.7788391113), (932.3756103516, 254.8016967773), (931.0651523903, 254.8016967773) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 33
+---------------
+Triangle 34
+Triangle: (932.352722168, 256.1116943359), (931.0426635742, 256.0888366699), (932.3756103516, 254.8016967773) 
+Going up triangle: 
+         Triangle: (932.352722168, 256.1116943359), (931.0426635742, 256.0888366699), (932.3531215355, 256.0888366699) 
+Going down downtri: 
+         Triangle: (932.3756103516, 254.8016967773), (931.0426635742, 256.0888366699), (932.3531215355, 256.0888366699) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.8016967773, rowMax: 256.0888366699, flat_lx: 931.0426635742, flat_rx: 932.3531215355, top_x: 932.3756103516
+Operating on scanline 255
+No Fragments: lowX = 933, hiX = 932
+Operating on scanline 256
+Fragments go from lowX = 932, hiY = 932
+Triangle is writing to row 256, column 932
+End routine for 34
+---------------
+Triangle 35
+Triangle: (932.3756103516, 254.8016967773), (933.685546875, 254.8245697021), (932.352722168, 256.1116943359) 
+Going up triangle: 
+         Triangle: (932.352722168, 256.1116943359), (933.685546875, 254.8245697021), (932.3752107175, 254.8245697021) 
+Going down downtri: 
+         Triangle: (932.3756103516, 254.8016967773), (933.685546875, 254.8245697021), (932.3752107175, 254.8245697021) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 35
+---------------
+Triangle 36
+Triangle: (933.6627197266, 256.134552002), (932.352722168, 256.1116943359), (933.685546875, 254.8245697021) 
+Going up triangle: 
+         Triangle: (933.6627197266, 256.134552002), (932.352722168, 256.1116943359), (933.6631180337, 256.1116943359) 
+Going down downtri: 
+         Triangle: (933.685546875, 254.8245697021), (932.352722168, 256.1116943359), (933.6631180337, 256.1116943359) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.8245697021, rowMax: 256.1116943359, flat_lx: 932.352722168, flat_rx: 933.6631180337, top_x: 933.685546875
+Operating on scanline 255
+No Fragments: lowX = 934, hiX = 933
+Operating on scanline 256
+Fragments go from lowX = 933, hiY = 933
+Triangle is writing to row 256, column 933
+End routine for 36
+---------------
+Triangle 37
+Triangle: (933.685546875, 254.8245697021), (934.9955444336, 254.8474273682), (933.6627197266, 256.134552002) 
+Going up triangle: 
+         Triangle: (933.6627197266, 256.134552002), (934.9955444336, 254.8474273682), (933.6851485678, 254.8474273682) 
+Going down downtri: 
+         Triangle: (933.685546875, 254.8245697021), (934.9955444336, 254.8474273682), (933.6851485678, 254.8474273682) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 37
+---------------
+Triangle 38
+Triangle: (934.9727172852, 256.1574401855), (933.6627197266, 256.134552002), (934.9955444336, 254.8474273682) 
+Going up triangle: 
+         Triangle: (934.9727172852, 256.1574401855), (933.6627197266, 256.134552002), (934.9731161148, 256.134552002) 
+Going down downtri: 
+         Triangle: (934.9955444336, 254.8474273682), (933.6627197266, 256.134552002), (934.9731161148, 256.134552002) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.8474273682, rowMax: 256.134552002, flat_lx: 933.6627197266, flat_rx: 934.9731161148, top_x: 934.9955444336
+Operating on scanline 255
+No Fragments: lowX = 935, hiX = 934
+Operating on scanline 256
+Fragments go from lowX = 934, hiY = 934
+Triangle is writing to row 256, column 934
+End routine for 38
+---------------
+Triangle 39
+Triangle: (934.9955444336, 254.8474273682), (936.3056030273, 254.870300293), (934.9727172852, 256.1574401855) 
+Going up triangle: 
+         Triangle: (934.9727172852, 256.1574401855), (936.3056030273, 254.870300293), (934.9951458698, 254.870300293) 
+Going down downtri: 
+         Triangle: (934.9955444336, 254.8474273682), (936.3056030273, 254.870300293), (934.9951458698, 254.870300293) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 39
+---------------
+Triangle 40
+Triangle: (936.2827148438, 256.1802978516), (934.9727172852, 256.1574401855), (936.3056030273, 254.870300293) 
+Going up triangle: 
+         Triangle: (936.2827148438, 256.1802978516), (934.9727172852, 256.1574401855), (936.2831142113, 256.1574401855) 
+Going down downtri: 
+         Triangle: (936.3056030273, 254.870300293), (934.9727172852, 256.1574401855), (936.2831142113, 256.1574401855) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.870300293, rowMax: 256.1574401855, flat_lx: 934.9727172852, flat_rx: 936.2831142113, top_x: 936.3056030273
+Operating on scanline 255
+No Fragments: lowX = 937, hiX = 936
+Operating on scanline 256
+Fragments go from lowX = 936, hiY = 936
+Triangle is writing to row 256, column 936
+End routine for 40
+---------------
+Triangle 41
+Triangle: (936.3056030273, 254.870300293), (937.6156005859, 254.893157959), (936.2827148438, 256.1802978516) 
+Going up triangle: 
+         Triangle: (936.2827148438, 256.1802978516), (937.6156005859, 254.893157959), (936.3052036598, 254.893157959) 
+Going down downtri: 
+         Triangle: (936.3056030273, 254.870300293), (937.6156005859, 254.893157959), (936.3052036598, 254.893157959) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 41
+---------------
+Triangle 42
+Triangle: (937.5927124023, 256.2031555176), (936.2827148438, 256.1802978516), (937.6156005859, 254.893157959) 
+Going up triangle: 
+         Triangle: (937.5927124023, 256.2031555176), (936.2827148438, 256.1802978516), (937.5931117698, 256.1802978516) 
+Going down downtri: 
+         Triangle: (937.6156005859, 254.893157959), (936.2827148438, 256.1802978516), (937.5931117698, 256.1802978516) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.893157959, rowMax: 256.1802978516, flat_lx: 936.2827148438, flat_rx: 937.5931117698, top_x: 937.6156005859
+Operating on scanline 255
+No Fragments: lowX = 938, hiX = 937
+Operating on scanline 256
+Fragments go from lowX = 937, hiY = 937
+Triangle is writing to row 256, column 937
+End routine for 42
+---------------
+Triangle 43
+Triangle: (937.6156005859, 254.893157959), (938.9255371094, 254.9160308838), (937.5927124023, 256.2031555176) 
+Going up triangle: 
+         Triangle: (937.5927124023, 256.2031555176), (938.9255371094, 254.9160308838), (937.6152009518, 254.9160308838) 
+Going down downtri: 
+         Triangle: (937.6156005859, 254.893157959), (938.9255371094, 254.9160308838), (937.6152009518, 254.9160308838) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 43
+---------------
+Triangle 44
+Triangle: (938.9027099609, 256.2260131836), (937.5927124023, 256.2031555176), (938.9255371094, 254.9160308838) 
+Going up triangle: 
+         Triangle: (938.9027099609, 256.2260131836), (937.5927124023, 256.2031555176), (938.9031082681, 256.2031555176) 
+Going down downtri: 
+         Triangle: (938.9255371094, 254.9160308838), (937.5927124023, 256.2031555176), (938.9031082681, 256.2031555176) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.9160308838, rowMax: 256.2031555176, flat_lx: 937.5927124023, flat_rx: 938.9031082681, top_x: 938.9255371094
+Operating on scanline 255
+No Fragments: lowX = 939, hiX = 938
+Operating on scanline 256
+Fragments go from lowX = 938, hiY = 938
+Triangle is writing to row 256, column 938
+End routine for 44
+---------------
+Triangle 45
+Triangle: (938.9255371094, 254.9160308838), (940.2355957031, 254.9388885498), (938.9027099609, 256.2260131836) 
+Going up triangle: 
+         Triangle: (938.9027099609, 256.2260131836), (940.2355957031, 254.9388885498), (938.9251388022, 254.9388885498) 
+Going down downtri: 
+         Triangle: (938.9255371094, 254.9160308838), (940.2355957031, 254.9388885498), (938.9251388022, 254.9388885498) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 255, hiY = 254
+End routine for 45
+---------------
+Triangle 46
+Triangle: (940.2127075195, 256.2489013672), (938.9027099609, 256.2260131836), (940.2355957031, 254.9388885498) 
+Going up triangle: 
+         Triangle: (940.2127075195, 256.2489013672), (938.9027099609, 256.2260131836), (940.2131074156, 256.2260131836) 
+Going down downtri: 
+         Triangle: (940.2355957031, 254.9388885498), (938.9027099609, 256.2260131836), (940.2131074156, 256.2260131836) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 255, hiY = 256
+rowMin: 254.9388885498, rowMax: 256.2260131836, flat_lx: 938.9027099609, flat_rx: 940.2131074156, top_x: 940.2355957031
+Operating on scanline 255
+No Fragments: lowX = 941, hiX = 940
+Operating on scanline 256
+Fragments go from lowX = 940, hiY = 940
+Triangle is writing to row 256, column 940
+End routine for 46
+---------------
+Triangle 47
+Triangle: (915.3227539062, 255.8144378662), (916.6326904297, 255.8372955322), (915.2998657227, 257.124420166) 
+Going up triangle: 
+         Triangle: (915.2998657227, 257.124420166), (916.6326904297, 255.8372955322), (915.3223545341, 255.8372955322) 
+Going down downtri: 
+         Triangle: (915.3227539062, 255.8144378662), (916.6326904297, 255.8372955322), (915.3223545341, 255.8372955322) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 47
+---------------
+Triangle 48
+Triangle: (916.6098632812, 257.1473083496), (915.2998657227, 257.124420166), (916.6326904297, 255.8372955322) 
+Going up triangle: 
+         Triangle: (916.6098632812, 257.1473083496), (915.2998657227, 257.124420166), (916.6102621109, 257.124420166) 
+Going down downtri: 
+         Triangle: (916.6326904297, 255.8372955322), (915.2998657227, 257.124420166), (916.6102621109, 257.124420166) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.8372955322, rowMax: 257.124420166, flat_lx: 915.2998657227, flat_rx: 916.6102621109, top_x: 916.6326904297
+Operating on scanline 256
+No Fragments: lowX = 917, hiX = 916
+Operating on scanline 257
+Fragments go from lowX = 916, hiY = 916
+Triangle is writing to row 257, column 916
+End routine for 48
+---------------
+Triangle 49
+Triangle: (916.6326904297, 255.8372955322), (917.9426879883, 255.860168457), (916.6098632812, 257.1473083496) 
+Going up triangle: 
+         Triangle: (916.6098632812, 257.1473083496), (917.9426879883, 255.860168457), (916.6322918659, 255.860168457) 
+Going down downtri: 
+         Triangle: (916.6326904297, 255.8372955322), (917.9426879883, 255.860168457), (916.6322918659, 255.860168457) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 49
+---------------
+Triangle 50
+Triangle: (917.9197998047, 257.1701660156), (916.6098632812, 257.1473083496), (917.9426879883, 255.860168457) 
+Going up triangle: 
+         Triangle: (917.9197998047, 257.1701660156), (916.6098632812, 257.1473083496), (917.9201991722, 257.1473083496) 
+Going down downtri: 
+         Triangle: (917.9426879883, 255.860168457), (916.6098632812, 257.1473083496), (917.9201991722, 257.1473083496) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.860168457, rowMax: 257.1473083496, flat_lx: 916.6098632812, flat_rx: 917.9201991722, top_x: 917.9426879883
+Operating on scanline 256
+No Fragments: lowX = 918, hiX = 917
+Operating on scanline 257
+Fragments go from lowX = 917, hiY = 917
+Triangle is writing to row 257, column 917
+End routine for 50
+---------------
+Triangle 51
+Triangle: (917.9426879883, 255.860168457), (919.2526855469, 255.883026123), (917.9197998047, 257.1701660156) 
+Going up triangle: 
+         Triangle: (917.9197998047, 257.1701660156), (919.2526855469, 255.883026123), (917.9422886208, 255.883026123) 
+Going down downtri: 
+         Triangle: (917.9426879883, 255.860168457), (919.2526855469, 255.883026123), (917.9422886208, 255.883026123) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 51
+---------------
+Triangle 52
+Triangle: (919.2297973633, 257.1930236816), (917.9197998047, 257.1701660156), (919.2526855469, 255.883026123) 
+Going up triangle: 
+         Triangle: (919.2297973633, 257.1930236816), (917.9197998047, 257.1701660156), (919.2301967308, 257.1701660156) 
+Going down downtri: 
+         Triangle: (919.2526855469, 255.883026123), (917.9197998047, 257.1701660156), (919.2301967308, 257.1701660156) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.883026123, rowMax: 257.1701660156, flat_lx: 917.9197998047, flat_rx: 919.2301967308, top_x: 919.2526855469
+Operating on scanline 256
+No Fragments: lowX = 920, hiX = 919
+Operating on scanline 257
+Fragments go from lowX = 919, hiY = 919
+Triangle is writing to row 257, column 919
+End routine for 52
+---------------
+Triangle 53
+Triangle: (919.2526855469, 255.883026123), (920.5627441406, 255.9058990479), (919.2297973633, 257.1930236816) 
+Going up triangle: 
+         Triangle: (919.2297973633, 257.1930236816), (920.5627441406, 255.9058990479), (919.2522859128, 255.9058990479) 
+Going down downtri: 
+         Triangle: (919.2526855469, 255.883026123), (920.5627441406, 255.9058990479), (919.2522859128, 255.9058990479) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 53
+---------------
+Triangle 54
+Triangle: (920.539855957, 257.2158813477), (919.2297973633, 257.1930236816), (920.5627441406, 255.9058990479) 
+Going up triangle: 
+         Triangle: (920.539855957, 257.2158813477), (919.2297973633, 257.1930236816), (920.5402553292, 257.1930236816) 
+Going down downtri: 
+         Triangle: (920.5627441406, 255.9058990479), (919.2297973633, 257.1930236816), (920.5402553292, 257.1930236816) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.9058990479, rowMax: 257.1930236816, flat_lx: 919.2297973633, flat_rx: 920.5402553292, top_x: 920.5627441406
+Operating on scanline 256
+No Fragments: lowX = 921, hiX = 920
+Operating on scanline 257
+Fragments go from lowX = 920, hiY = 920
+Triangle is writing to row 257, column 920
+End routine for 54
+---------------
+Triangle 55
+Triangle: (920.5627441406, 255.9058990479), (921.8726806641, 255.9287719727), (920.539855957, 257.2158813477) 
+Going up triangle: 
+         Triangle: (920.539855957, 257.2158813477), (921.8726806641, 255.9287719727), (920.5623445019, 255.9287719727) 
+Going down downtri: 
+         Triangle: (920.5627441406, 255.9058990479), (921.8726806641, 255.9287719727), (920.5623445019, 255.9287719727) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 55
+---------------
+Triangle 56
+Triangle: (921.8498535156, 257.2387695312), (920.539855957, 257.2158813477), (921.8726806641, 255.9287719727) 
+Going up triangle: 
+         Triangle: (921.8498535156, 257.2387695312), (920.539855957, 257.2158813477), (921.8502523499, 257.2158813477) 
+Going down downtri: 
+         Triangle: (921.8726806641, 255.9287719727), (920.539855957, 257.2158813477), (921.8502523499, 257.2158813477) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.9287719727, rowMax: 257.2158813477, flat_lx: 920.539855957, flat_rx: 921.8502523499, top_x: 921.8726806641
+Operating on scanline 256
+No Fragments: lowX = 922, hiX = 921
+Operating on scanline 257
+Fragments go from lowX = 921, hiY = 921
+Triangle is writing to row 257, column 921
+End routine for 56
+---------------
+Triangle 57
+Triangle: (921.8726806641, 255.9287719727), (923.1826782227, 255.9516296387), (921.8498535156, 257.2387695312) 
+Going up triangle: 
+         Triangle: (921.8498535156, 257.2387695312), (923.1826782227, 255.9516296387), (921.8722823615, 255.9516296387) 
+Going down downtri: 
+         Triangle: (921.8726806641, 255.9287719727), (923.1826782227, 255.9516296387), (921.8722823615, 255.9516296387) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 57
+---------------
+Triangle 58
+Triangle: (923.1597900391, 257.2616271973), (921.8498535156, 257.2387695312), (923.1826782227, 255.9516296387) 
+Going up triangle: 
+         Triangle: (923.1597900391, 257.2616271973), (921.8498535156, 257.2387695312), (923.1601894066, 257.2387695312) 
+Going down downtri: 
+         Triangle: (923.1826782227, 255.9516296387), (921.8498535156, 257.2387695312), (923.1601894066, 257.2387695312) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.9516296387, rowMax: 257.2387695312, flat_lx: 921.8498535156, flat_rx: 923.1601894066, top_x: 923.1826782227
+Operating on scanline 256
+No Fragments: lowX = 924, hiX = 923
+Operating on scanline 257
+Fragments go from lowX = 923, hiY = 923
+Triangle is writing to row 257, column 923
+End routine for 58
+---------------
+Triangle 59
+Triangle: (923.1826782227, 255.9516296387), (924.4927368164, 255.9745025635), (923.1597900391, 257.2616271973) 
+Going up triangle: 
+         Triangle: (923.1597900391, 257.2616271973), (924.4927368164, 255.9745025635), (923.1822785886, 255.9745025635) 
+Going down downtri: 
+         Triangle: (923.1826782227, 255.9516296387), (924.4927368164, 255.9745025635), (923.1822785886, 255.9745025635) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 59
+---------------
+Triangle 60
+Triangle: (924.4698486328, 257.2844848633), (923.1597900391, 257.2616271973), (924.4927368164, 255.9745025635) 
+Going up triangle: 
+         Triangle: (924.4698486328, 257.2844848633), (923.1597900391, 257.2616271973), (924.470248005, 257.2616271973) 
+Going down downtri: 
+         Triangle: (924.4927368164, 255.9745025635), (923.1597900391, 257.2616271973), (924.470248005, 257.2616271973) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.9745025635, rowMax: 257.2616271973, flat_lx: 923.1597900391, flat_rx: 924.470248005, top_x: 924.4927368164
+Operating on scanline 256
+No Fragments: lowX = 925, hiX = 924
+Operating on scanline 257
+Fragments go from lowX = 924, hiY = 924
+Triangle is writing to row 257, column 924
+End routine for 60
+---------------
+Triangle 61
+Triangle: (924.4927368164, 255.9745025635), (925.8026733398, 255.9973602295), (924.4698486328, 257.2844848633) 
+Going up triangle: 
+         Triangle: (924.4698486328, 257.2844848633), (925.8026733398, 255.9973602295), (924.4923374442, 255.9973602295) 
+Going down downtri: 
+         Triangle: (924.4927368164, 255.9745025635), (925.8026733398, 255.9973602295), (924.4923374442, 255.9973602295) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 256, hiY = 255
+End routine for 61
+---------------
+Triangle 62
+Triangle: (925.7798461914, 257.3073730469), (924.4698486328, 257.2844848633), (925.8026733398, 255.9973602295) 
+Going up triangle: 
+         Triangle: (925.7798461914, 257.3073730469), (924.4698486328, 257.2844848633), (925.7802450211, 257.2844848633) 
+Going down downtri: 
+         Triangle: (925.8026733398, 255.9973602295), (924.4698486328, 257.2844848633), (925.7802450211, 257.2844848633) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 257
+rowMin: 255.9973602295, rowMax: 257.2844848633, flat_lx: 924.4698486328, flat_rx: 925.7802450211, top_x: 925.8026733398
+Operating on scanline 256
+No Fragments: lowX = 926, hiX = 925
+Operating on scanline 257
+Fragments go from lowX = 925, hiY = 925
+Triangle is writing to row 257, column 925
+End routine for 62
+---------------
+Triangle 63
+Triangle: (925.8026733398, 255.9973602295), (927.1126708984, 256.0202331543), (925.7798461914, 257.3073730469) 
+Going up triangle: 
+         Triangle: (925.7798461914, 257.3073730469), (927.1126708984, 256.0202331543), (925.8022747761, 256.0202331543) 
+Going down downtri: 
+         Triangle: (925.8026733398, 255.9973602295), (927.1126708984, 256.0202331543), (925.8022747761, 256.0202331543) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 256, hiY = 256
+rowMin: 255.9973602295, rowMax: 256.0202331543, flat_lx: 925.8022747761, flat_rx: 927.1126708984, top_x: 925.8026733398
+Operating on scanline 256
+No Fragments: lowX = 926, hiX = 925
+End routine for 63
+---------------
+Triangle 64
+Triangle: (927.08984375, 257.3302307129), (925.7798461914, 257.3073730469), (927.1126708984, 256.0202331543) 
+Going up triangle: 
+         Triangle: (927.08984375, 257.3302307129), (925.7798461914, 257.3073730469), (927.0902420525, 257.3073730469) 
+Going down downtri: 
+         Triangle: (927.1126708984, 256.0202331543), (925.7798461914, 257.3073730469), (927.0902420525, 257.3073730469) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.0202331543, rowMax: 257.3073730469, flat_lx: 925.7798461914, flat_rx: 927.0902420525, top_x: 927.1126708984
+Operating on scanline 257
+Fragments go from lowX = 927, hiY = 927
+Triangle is writing to row 257, column 927
+End routine for 64
+---------------
+Triangle 65
+Triangle: (927.1126708984, 256.0202331543), (928.4227294922, 256.0430908203), (927.08984375, 257.3302307129) 
+Going up triangle: 
+         Triangle: (927.08984375, 257.3302307129), (928.4227294922, 256.0430908203), (927.1122725959, 256.0430908203) 
+Going down downtri: 
+         Triangle: (927.1126708984, 256.0202331543), (928.4227294922, 256.0430908203), (927.1122725959, 256.0430908203) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 65
+---------------
+Triangle 66
+Triangle: (928.3998413086, 257.3530883789), (927.08984375, 257.3302307129), (928.4227294922, 256.0430908203) 
+Going up triangle: 
+         Triangle: (928.3998413086, 257.3530883789), (927.08984375, 257.3302307129), (928.4002406761, 257.3302307129) 
+Going down downtri: 
+         Triangle: (928.4227294922, 256.0430908203), (927.08984375, 257.3302307129), (928.4002406761, 257.3302307129) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.0430908203, rowMax: 257.3302307129, flat_lx: 927.08984375, flat_rx: 928.4002406761, top_x: 928.4227294922
+Operating on scanline 257
+Fragments go from lowX = 928, hiY = 928
+Triangle is writing to row 257, column 928
+End routine for 66
+---------------
+Triangle 67
+Triangle: (928.4227294922, 256.0430908203), (929.7327270508, 256.0659484863), (928.3998413086, 257.3530883789) 
+Going up triangle: 
+         Triangle: (928.3998413086, 257.3530883789), (929.7327270508, 256.0659484863), (928.4223301247, 256.0659484863) 
+Going down downtri: 
+         Triangle: (928.4227294922, 256.0430908203), (929.7327270508, 256.0659484863), (928.4223301247, 256.0659484863) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 67
+---------------
+Triangle 68
+Triangle: (929.7098388672, 257.3759460449), (928.3998413086, 257.3530883789), (929.7327270508, 256.0659484863) 
+Going up triangle: 
+         Triangle: (929.7098388672, 257.3759460449), (928.3998413086, 257.3530883789), (929.7102382347, 257.3530883789) 
+Going down downtri: 
+         Triangle: (929.7327270508, 256.0659484863), (928.3998413086, 257.3530883789), (929.7102382347, 257.3530883789) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.0659484863, rowMax: 257.3530883789, flat_lx: 928.3998413086, flat_rx: 929.7102382347, top_x: 929.7327270508
+Operating on scanline 257
+Fragments go from lowX = 929, hiY = 929
+Triangle is writing to row 257, column 929
+End routine for 68
+---------------
+Triangle 69
+Triangle: (929.7327270508, 256.0659484863), (931.0426635742, 256.0888366699), (929.7098388672, 257.3759460449) 
+Going up triangle: 
+         Triangle: (929.7098388672, 257.3759460449), (931.0426635742, 256.0888366699), (929.7323271501, 256.0888366699) 
+Going down downtri: 
+         Triangle: (929.7327270508, 256.0659484863), (931.0426635742, 256.0888366699), (929.7323271501, 256.0888366699) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 69
+---------------
+Triangle 70
+Triangle: (931.0198364258, 257.3988342285), (929.7098388672, 257.3759460449), (931.0426635742, 256.0888366699) 
+Going up triangle: 
+         Triangle: (931.0198364258, 257.3988342285), (929.7098388672, 257.3759460449), (931.0202352601, 257.3759460449) 
+Going down downtri: 
+         Triangle: (931.0426635742, 256.0888366699), (929.7098388672, 257.3759460449), (931.0202352601, 257.3759460449) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.0888366699, rowMax: 257.3759460449, flat_lx: 929.7098388672, flat_rx: 931.0202352601, top_x: 931.0426635742
+Operating on scanline 257
+Fragments go from lowX = 931, hiY = 931
+Triangle is writing to row 257, column 931
+End routine for 70
+---------------
+Triangle 71
+Triangle: (931.0426635742, 256.0888366699), (932.352722168, 256.1116943359), (931.0198364258, 257.3988342285) 
+Going up triangle: 
+         Triangle: (931.0198364258, 257.3988342285), (932.352722168, 256.1116943359), (931.0422652717, 256.1116943359) 
+Going down downtri: 
+         Triangle: (931.0426635742, 256.0888366699), (932.352722168, 256.1116943359), (931.0422652717, 256.1116943359) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 71
+---------------
+Triangle 72
+Triangle: (932.3298339844, 257.4216918945), (931.0198364258, 257.3988342285), (932.352722168, 256.1116943359) 
+Going up triangle: 
+         Triangle: (932.3298339844, 257.4216918945), (931.0198364258, 257.3988342285), (932.3302333519, 257.3988342285) 
+Going down downtri: 
+         Triangle: (932.352722168, 256.1116943359), (931.0198364258, 257.3988342285), (932.3302333519, 257.3988342285) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.1116943359, rowMax: 257.3988342285, flat_lx: 931.0198364258, flat_rx: 932.3302333519, top_x: 932.352722168
+Operating on scanline 257
+Fragments go from lowX = 932, hiY = 932
+Triangle is writing to row 257, column 932
+End routine for 72
+---------------
+Triangle 73
+Triangle: (932.352722168, 256.1116943359), (933.6627197266, 256.134552002), (932.3298339844, 257.4216918945) 
+Going up triangle: 
+         Triangle: (932.3298339844, 257.4216918945), (933.6627197266, 256.134552002), (932.3523228005, 256.134552002) 
+Going down downtri: 
+         Triangle: (932.352722168, 256.1116943359), (933.6627197266, 256.134552002), (932.3523228005, 256.134552002) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 73
+---------------
+Triangle 74
+Triangle: (933.639831543, 257.4445495605), (932.3298339844, 257.4216918945), (933.6627197266, 256.134552002) 
+Going up triangle: 
+         Triangle: (933.639831543, 257.4445495605), (932.3298339844, 257.4216918945), (933.6402309105, 257.4216918945) 
+Going down downtri: 
+         Triangle: (933.6627197266, 256.134552002), (932.3298339844, 257.4216918945), (933.6402309105, 257.4216918945) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.134552002, rowMax: 257.4216918945, flat_lx: 932.3298339844, flat_rx: 933.6402309105, top_x: 933.6627197266
+Operating on scanline 257
+Fragments go from lowX = 933, hiY = 933
+Triangle is writing to row 257, column 933
+End routine for 74
+---------------
+Triangle 75
+Triangle: (933.6627197266, 256.134552002), (934.9727172852, 256.1574401855), (933.639831543, 257.4445495605) 
+Going up triangle: 
+         Triangle: (933.639831543, 257.4445495605), (934.9727172852, 256.1574401855), (933.6623198259, 256.1574401855) 
+Going down downtri: 
+         Triangle: (933.6627197266, 256.134552002), (934.9727172852, 256.1574401855), (933.6623198259, 256.1574401855) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 75
+---------------
+Triangle 76
+Triangle: (934.9498291016, 257.4674377441), (933.639831543, 257.4445495605), (934.9727172852, 256.1574401855) 
+Going up triangle: 
+         Triangle: (934.9498291016, 257.4674377441), (933.639831543, 257.4445495605), (934.9502290023, 257.4445495605) 
+Going down downtri: 
+         Triangle: (934.9727172852, 256.1574401855), (933.639831543, 257.4445495605), (934.9502290023, 257.4445495605) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.1574401855, rowMax: 257.4445495605, flat_lx: 933.639831543, flat_rx: 934.9502290023, top_x: 934.9727172852
+Operating on scanline 257
+No Fragments: lowX = 935, hiX = 934
+End routine for 76
+---------------
+Triangle 77
+Triangle: (934.9727172852, 256.1574401855), (936.2827148438, 256.1802978516), (934.9498291016, 257.4674377441) 
+Going up triangle: 
+         Triangle: (934.9498291016, 257.4674377441), (936.2827148438, 256.1802978516), (934.9723179177, 256.1802978516) 
+Going down downtri: 
+         Triangle: (934.9727172852, 256.1574401855), (936.2827148438, 256.1802978516), (934.9723179177, 256.1802978516) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 77
+---------------
+Triangle 78
+Triangle: (936.2598876953, 257.4902954102), (934.9498291016, 257.4674377441), (936.2827148438, 256.1802978516) 
+Going up triangle: 
+         Triangle: (936.2598876953, 257.4902954102), (934.9498291016, 257.4674377441), (936.2602859978, 257.4674377441) 
+Going down downtri: 
+         Triangle: (936.2827148438, 256.1802978516), (934.9498291016, 257.4674377441), (936.2602859978, 257.4674377441) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.1802978516, rowMax: 257.4674377441, flat_lx: 934.9498291016, flat_rx: 936.2602859978, top_x: 936.2827148438
+Operating on scanline 257
+Fragments go from lowX = 936, hiY = 936
+Triangle is writing to row 257, column 936
+End routine for 78
+---------------
+Triangle 79
+Triangle: (936.2827148438, 256.1802978516), (937.5927124023, 256.2031555176), (936.2598876953, 257.4902954102) 
+Going up triangle: 
+         Triangle: (936.2598876953, 257.4902954102), (937.5927124023, 256.2031555176), (936.2823165412, 256.2031555176) 
+Going down downtri: 
+         Triangle: (936.2827148438, 256.1802978516), (937.5927124023, 256.2031555176), (936.2823165412, 256.2031555176) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 79
+---------------
+Triangle 80
+Triangle: (937.5698242188, 257.5131530762), (936.2598876953, 257.4902954102), (937.5927124023, 256.2031555176) 
+Going up triangle: 
+         Triangle: (937.5698242188, 257.5131530762), (936.2598876953, 257.4902954102), (937.5702235863, 257.4902954102) 
+Going down downtri: 
+         Triangle: (937.5927124023, 256.2031555176), (936.2598876953, 257.4902954102), (937.5702235863, 257.4902954102) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.2031555176, rowMax: 257.4902954102, flat_lx: 936.2598876953, flat_rx: 937.5702235863, top_x: 937.5927124023
+Operating on scanline 257
+Fragments go from lowX = 937, hiY = 937
+Triangle is writing to row 257, column 937
+End routine for 80
+---------------
+Triangle 81
+Triangle: (937.5927124023, 256.2031555176), (938.9027099609, 256.2260131836), (937.5698242188, 257.5131530762) 
+Going up triangle: 
+         Triangle: (937.5698242188, 257.5131530762), (938.9027099609, 256.2260131836), (937.5923130348, 256.2260131836) 
+Going down downtri: 
+         Triangle: (937.5927124023, 256.2031555176), (938.9027099609, 256.2260131836), (937.5923130348, 256.2260131836) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 81
+---------------
+Triangle 82
+Triangle: (938.8798217773, 257.5360107422), (937.5698242188, 257.5131530762), (938.9027099609, 256.2260131836) 
+Going up triangle: 
+         Triangle: (938.8798217773, 257.5360107422), (937.5698242188, 257.5131530762), (938.8802211448, 257.5131530762) 
+Going down downtri: 
+         Triangle: (938.9027099609, 256.2260131836), (937.5698242188, 257.5131530762), (938.8802211448, 257.5131530762) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.2260131836, rowMax: 257.5131530762, flat_lx: 937.5698242188, flat_rx: 938.8802211448, top_x: 938.9027099609
+Operating on scanline 257
+No Fragments: lowX = 939, hiX = 938
+End routine for 82
+---------------
+Triangle 83
+Triangle: (938.9027099609, 256.2260131836), (940.2127075195, 256.2489013672), (938.8798217773, 257.5360107422) 
+Going up triangle: 
+         Triangle: (938.8798217773, 257.5360107422), (940.2127075195, 256.2489013672), (938.9023100602, 256.2489013672) 
+Going down downtri: 
+         Triangle: (938.9027099609, 256.2260131836), (940.2127075195, 256.2489013672), (938.9023100602, 256.2489013672) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 83
+---------------
+Triangle 84
+Triangle: (940.1898803711, 257.5588989258), (938.8798217773, 257.5360107422), (940.2127075195, 256.2489013672) 
+Going up triangle: 
+         Triangle: (940.1898803711, 257.5588989258), (938.8798217773, 257.5360107422), (940.1902792054, 257.5360107422) 
+Going down downtri: 
+         Triangle: (940.2127075195, 256.2489013672), (938.8798217773, 257.5360107422), (940.1902792054, 257.5360107422) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.2489013672, rowMax: 257.5360107422, flat_lx: 938.8798217773, flat_rx: 940.1902792054, top_x: 940.2127075195
+Operating on scanline 257
+Fragments go from lowX = 940, hiY = 940
+Triangle is writing to row 257, column 940
+End routine for 84
+---------------
+Triangle 85
+Triangle: (940.2127075195, 256.2489013672), (941.5227050781, 256.2717590332), (940.1898803711, 257.5588989258) 
+Going up triangle: 
+         Triangle: (940.1898803711, 257.5588989258), (941.5227050781, 256.2717590332), (940.212309217, 256.2717590332) 
+Going down downtri: 
+         Triangle: (940.2127075195, 256.2489013672), (941.5227050781, 256.2717590332), (940.212309217, 256.2717590332) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 85
+---------------
+Triangle 86
+Triangle: (941.4998779297, 257.5817565918), (940.1898803711, 257.5588989258), (941.5227050781, 256.2717590332) 
+Going up triangle: 
+         Triangle: (941.4998779297, 257.5817565918), (940.1898803711, 257.5588989258), (941.5002762322, 257.5588989258) 
+Going down downtri: 
+         Triangle: (941.5227050781, 256.2717590332), (940.1898803711, 257.5588989258), (941.5002762322, 257.5588989258) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.2717590332, rowMax: 257.5588989258, flat_lx: 940.1898803711, flat_rx: 941.5002762322, top_x: 941.5227050781
+Operating on scanline 257
+Fragments go from lowX = 941, hiY = 941
+Triangle is writing to row 257, column 941
+End routine for 86
+---------------
+Triangle 87
+Triangle: (903.5052490234, 257.1806640625), (903.4869995117, 258.2286376953), (902.1796875, 258.0485839844) 
+Going up triangle: 
+         Triangle: (903.4869995117, 258.2286376953), (902.1796875, 258.0485839844), (903.490134984, 258.0485839844) 
+Going down downtri: 
+         Triangle: (903.5052490234, 257.1806640625), (902.1796875, 258.0485839844), (903.490134984, 258.0485839844) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 258, hiY = 258
+rowMin: 257.1806640625, rowMax: 258.0485839844, flat_lx: 902.1796875, flat_rx: 903.490134984, top_x: 903.5052490234
+Operating on scanline 258
+Fragments go from lowX = 903, hiY = 903
+Triangle is writing to row 258, column 903
+End routine for 87
+---------------
+Triangle 88
+Triangle: (902.176940918, 258.2057800293), (902.1796875, 258.0485839844), (903.4869995117, 258.2286376953) 
+Going up triangle: 
+         Triangle: (903.4869995117, 258.2286376953), (902.176940918, 258.2057800293), (903.3210373597, 258.2057800293) 
+Going down downtri: 
+         Triangle: (902.1796875, 258.0485839844), (902.176940918, 258.2057800293), (903.3210373597, 258.2057800293) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 259, hiY = 258
+End routine for 88
+---------------
+Triangle 89
+Triangle: (904.8198242188, 256.9414978027), (904.7969360352, 258.2515258789), (903.5052490234, 257.1806640625) 
+Going up triangle: 
+         Triangle: (904.7969360352, 258.2515258789), (903.5052490234, 257.1806640625), (904.8156456203, 257.1806640625) 
+Going down downtri: 
+         Triangle: (904.8198242188, 256.9414978027), (903.5052490234, 257.1806640625), (904.8156456203, 257.1806640625) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.9414978027, rowMax: 257.1806640625, flat_lx: 903.5052490234, flat_rx: 904.8156456203, top_x: 904.8198242188
+Operating on scanline 257
+No Fragments: lowX = 905, hiX = 904
+End routine for 89
+---------------
+Triangle 90
+Triangle: (903.4869995117, 258.2286376953), (903.5052490234, 257.1806640625), (904.7969360352, 258.2515258789) 
+Going up triangle: 
+         Triangle: (904.7969360352, 258.2515258789), (903.4869995117, 258.2286376953), (904.7693280198, 258.2286376953) 
+Going down downtri: 
+         Triangle: (903.5052490234, 257.1806640625), (903.4869995117, 258.2286376953), (904.7693280198, 258.2286376953) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 258, hiY = 258
+rowMin: 257.1806640625, rowMax: 258.2286376953, flat_lx: 903.4869995117, flat_rx: 904.7693280198, top_x: 903.5052490234
+Operating on scanline 258
+Fragments go from lowX = 904, hiY = 904
+Triangle is writing to row 258, column 904
+End routine for 90
+---------------
+Triangle 91
+Triangle: (904.8198242188, 256.9414978027), (906.1298217773, 256.9643554688), (904.7969360352, 258.2515258789) 
+Going up triangle: 
+         Triangle: (904.7969360352, 258.2515258789), (906.1298217773, 256.9643554688), (904.8194248605, 256.9643554688) 
+Going down downtri: 
+         Triangle: (904.8198242188, 256.9414978027), (906.1298217773, 256.9643554688), (904.8194248605, 256.9643554688) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 91
+---------------
+Triangle 92
+Triangle: (906.1298217773, 256.9643554688), (907.4398803711, 256.9872436523), (906.1069335938, 258.2743835449) 
+Going up triangle: 
+         Triangle: (906.1069335938, 258.2743835449), (907.4398803711, 256.9872436523), (906.129421886, 256.9872436523) 
+Going down downtri: 
+         Triangle: (906.1298217773, 256.9643554688), (907.4398803711, 256.9872436523), (906.129421886, 256.9872436523) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 257, hiY = 256
+End routine for 92
+---------------
+Triangle 93
+Triangle: (907.4169921875, 258.2972412109), (906.1069335938, 258.2743835449), (907.4398803711, 256.9872436523) 
+Going up triangle: 
+         Triangle: (907.4169921875, 258.2972412109), (906.1069335938, 258.2743835449), (907.417391555, 258.2743835449) 
+Going down downtri: 
+         Triangle: (907.4398803711, 256.9872436523), (906.1069335938, 258.2743835449), (907.417391555, 258.2743835449) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 258
+rowMin: 256.9872436523, rowMax: 258.2743835449, flat_lx: 906.1069335938, flat_rx: 907.417391555, top_x: 907.4398803711
+Operating on scanline 257
+No Fragments: lowX = 908, hiX = 907
+Operating on scanline 258
+Fragments go from lowX = 907, hiY = 907
+Triangle is writing to row 258, column 907
+End routine for 93
+---------------
+Triangle 94
+Triangle: (907.4398803711, 256.9872436523), (908.7498168945, 257.0101013184), (907.4169921875, 258.2972412109) 
+Going up triangle: 
+         Triangle: (907.4169921875, 258.2972412109), (908.7498168945, 257.0101013184), (907.4394810036, 257.0101013184) 
+Going down downtri: 
+         Triangle: (907.4398803711, 256.9872436523), (908.7498168945, 257.0101013184), (907.4394810036, 257.0101013184) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 257, hiY = 257
+rowMin: 256.9872436523, rowMax: 257.0101013184, flat_lx: 907.4394810036, flat_rx: 908.7498168945, top_x: 907.4398803711
+Operating on scanline 257
+Fragments go from lowX = 908, hiY = 908
+Triangle is writing to row 257, column 908
+End routine for 94
+---------------
+Triangle 95
+Triangle: (908.7269897461, 258.320098877), (907.4169921875, 258.2972412109), (908.7498168945, 257.0101013184) 
+Going up triangle: 
+         Triangle: (908.7269897461, 258.320098877), (907.4169921875, 258.2972412109), (908.7273880486, 258.2972412109) 
+Going down downtri: 
+         Triangle: (908.7498168945, 257.0101013184), (907.4169921875, 258.2972412109), (908.7273880486, 258.2972412109) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 258, hiY = 258
+rowMin: 257.0101013184, rowMax: 258.2972412109, flat_lx: 907.4169921875, flat_rx: 908.7273880486, top_x: 908.7498168945
+Operating on scanline 258
+Fragments go from lowX = 908, hiY = 908
+Triangle is writing to row 258, column 908
+End routine for 95
+---------------
+Triangle 96
+Triangle: (908.7498168945, 257.0101013184), (910.0598144531, 257.0329589844), (908.7269897461, 258.320098877) 
+Going up triangle: 
+         Triangle: (908.7269897461, 258.320098877), (910.0598144531, 257.0329589844), (908.749418592, 257.0329589844) 
+Going down downtri: 
+         Triangle: (908.7498168945, 257.0101013184), (910.0598144531, 257.0329589844), (908.749418592, 257.0329589844) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 258, hiY = 257
+End routine for 96
+---------------
+Triangle 97
+Triangle: (910.0369262695, 258.3429870605), (908.7269897461, 258.320098877), (910.0598144531, 257.0329589844) 
+Going up triangle: 
+         Triangle: (910.0369262695, 258.3429870605), (908.7269897461, 258.320098877), (910.0373261609, 258.320098877) 
+Going down downtri: 
+         Triangle: (910.0598144531, 257.0329589844), (908.7269897461, 258.320098877), (910.0373261609, 258.320098877) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 258, hiY = 258
+rowMin: 257.0329589844, rowMax: 258.320098877, flat_lx: 908.7269897461, flat_rx: 910.0373261609, top_x: 910.0598144531
+Operating on scanline 258
+Fragments go from lowX = 910, hiY = 910
+Triangle is writing to row 258, column 910
+End routine for 97
+---------------
+Triangle 98
+Triangle: (910.0598144531, 257.0329589844), (911.3698730469, 257.055847168), (910.0369262695, 258.3429870605) 
+Going up triangle: 
+         Triangle: (910.0369262695, 258.3429870605), (911.3698730469, 257.055847168), (910.0594145617, 257.055847168) 
+Going down downtri: 
+         Triangle: (910.0598144531, 257.0329589844), (911.3698730469, 257.055847168), (910.0594145617, 257.055847168) 
+
+
+Rasterizing GoingDownTriangle
+No scanlines: lowY = 258, hiY = 257
+End routine for 98
+---------------
+Triangle 99
+Triangle: (911.3469848633, 258.3658447266), (910.0369262695, 258.3429870605), (911.3698730469, 257.055847168) 
+Going up triangle: 
+         Triangle: (911.3469848633, 258.3658447266), (910.0369262695, 258.3429870605), (911.3473842308, 258.3429870605) 
+Going down downtri: 
+         Triangle: (911.3698730469, 257.055847168), (910.0369262695, 258.3429870605), (911.3473842308, 258.3429870605) 
+
+
+Rasterizing GoingDownTriangle
+Scanlines go from lowY = 258, hiY = 258
+rowMin: 257.055847168, rowMax: 258.3429870605, flat_lx: 910.0369262695, flat_rx: 911.3473842308, top_x: 911.3698730469
+Operating on scanline 258
+Fragments go from lowX = 911, hiY = 911
+Triangle is writing to row 258, column 911
+End routine for 99
+---------------

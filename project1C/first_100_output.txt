@@ -1,0 +1,2274 @@
+NOTE: I did this "cerr << std::setprecision(20) << endl;" to get so much precision.
+
+
+
+ Triangle 0
+
+Triangle: (935.03369140625, 252.6636505126953125), (935.0184326171875, 253.5374298095703125), (933.71136474609375, 253.3455657958984375) with color (247, 235, 37)
+Going up triangle:
+	 Triangle: (935.0184326171875, 253.5374298095703125), (933.71136474609375, 253.3455657958984375), (935.02178313433034873, 253.3455657958984375) with color (247, 235, 37)
+Going down triangle:
+	 Triangle: (935.03369140625, 252.6636505126953125), (933.71136474609375, 253.3455657958984375), (935.02178313433034873, 253.3455657958984375) with color (247, 235, 37)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 253, hiY = 253
+	Operating on scanline 253
+	Fragments go from lowX = 935, hiX = 935
+	Triangle 0 is writing to row 253, column 935
+
+
+ End routine for 0
+
+
+
+ Triangle 1
+
+Triangle: (933.70843505859375, 253.5145721435546875), (933.71136474609375, 253.3455657958984375), (935.0184326171875, 253.5374298095703125) with color (252, 239, 11)
+Going up triangle:
+	 Triangle: (935.0184326171875, 253.5374298095703125), (933.70843505859375, 253.5145721435546875), (934.86271544915041432, 253.5145721435546875) with color (252, 239, 11)
+Going down triangle:
+	 Triangle: (933.71136474609375, 253.3455657958984375), (933.70843505859375, 253.5145721435546875), (934.86271544915041432, 253.5145721435546875) with color (252, 239, 11)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+
+ End routine for 1
+
+
+
+ Triangle 2
+
+Triangle: (935.03369140625, 252.6636505126953125), (936.33990478515625, 252.9052886962890625), (935.0184326171875, 253.5374298095703125) with color (247, 235, 37)
+Going up triangle:
+	 Triangle: (935.0184326171875, 253.5374298095703125), (936.33990478515625, 252.9052886962890625), (935.02947168384855559, 252.9052886962890625) with color (247, 235, 37)
+Going down triangle:
+	 Triangle: (935.03369140625, 252.6636505126953125), (936.33990478515625, 252.9052886962890625), (935.02947168384855559, 252.9052886962890625) with color (247, 235, 37)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 253, hiY = 253
+	Operating on scanline 253
+	Fragments go from lowX = 936, hiX = 936
+	Triangle 2 is writing to row 253, column 936
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 253, hiY = 252
+
+
+ End routine for 2
+
+
+
+ Triangle 3
+
+Triangle: (936.3284912109375, 253.560302734375), (935.0184326171875, 253.5374298095703125), (936.33990478515625, 252.9052886962890625) with color (253, 238, 11)
+Going up triangle:
+	 Triangle: (936.3284912109375, 253.560302734375), (935.0184326171875, 253.5374298095703125), (936.3288897700670077, 253.5374298095703125) with color (253, 238, 11)
+Going down triangle:
+	 Triangle: (936.33990478515625, 252.9052886962890625), (935.0184326171875, 253.5374298095703125), (936.3288897700670077, 253.5374298095703125) with color (253, 238, 11)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 253, hiY = 253
+	Operating on scanline 253
+	No fragments: lowX = 937, hiX = 936
+
+
+ End routine for 3
+
+
+
+ Triangle 4
+
+Triangle: (931.08843994140625, 253.468841552734375), (932.3984375, 253.49169921875), (931.0655517578125, 254.778839111328125) with color (248, 236, 36)
+Going up triangle:
+	 Triangle: (931.0655517578125, 254.778839111328125), (932.3984375, 253.49169921875), (931.08804057390136677, 253.49169921875) with color (248, 236, 36)
+Going down triangle:
+	 Triangle: (931.08843994140625, 253.468841552734375), (932.3984375, 253.49169921875), (931.08804057390136677, 253.49169921875) with color (248, 236, 36)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	No fragments: lowX = 932, hiX = 931
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+
+ End routine for 4
+
+
+
+ Triangle 5
+
+Triangle: (932.3756103515625, 254.80169677734375), (931.0655517578125, 254.778839111328125), (932.3984375, 253.49169921875) with color (253, 239, 8)
+Going up triangle:
+	 Triangle: (932.3756103515625, 254.80169677734375), (931.0655517578125, 254.778839111328125), (932.37600865408728623, 254.778839111328125) with color (253, 239, 8)
+Going down triangle:
+	 Triangle: (932.3984375, 253.49169921875), (931.0655517578125, 254.778839111328125), (932.37600865408728623, 254.778839111328125) with color (253, 239, 8)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	Fragments go from lowX = 932, hiX = 932
+	Triangle 5 is writing to row 254, column 932
+
+
+ End routine for 5
+
+
+
+ Triangle 6
+
+Triangle: (932.3984375, 253.49169921875), (933.70843505859375, 253.5145721435546875), (932.3756103515625, 254.80169677734375) with color (251, 237, 24)
+Going up triangle:
+	 Triangle: (932.3756103515625, 254.80169677734375), (933.70843505859375, 253.5145721435546875), (932.39803893158568826, 253.5145721435546875) with color (251, 237, 24)
+Going down triangle:
+	 Triangle: (932.3984375, 253.49169921875), (933.70843505859375, 253.5145721435546875), (932.39803893158568826, 253.5145721435546875) with color (251, 237, 24)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	Fragments go from lowX = 933, hiX = 933
+	Triangle 6 is writing to row 254, column 933
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+
+ End routine for 6
+
+
+
+ Triangle 7
+
+Triangle: (933.685546875, 254.8245697021484375), (932.3756103515625, 254.80169677734375), (933.70843505859375, 253.5145721435546875) with color (253, 240, 3)
+Going up triangle:
+	 Triangle: (933.685546875, 254.8245697021484375), (932.3756103515625, 254.80169677734375), (933.68594650910529253, 254.80169677734375) with color (253, 240, 3)
+Going down triangle:
+	 Triangle: (933.70843505859375, 253.5145721435546875), (932.3756103515625, 254.80169677734375), (933.68594650910529253, 254.80169677734375) with color (253, 240, 3)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	No fragments: lowX = 934, hiX = 933
+
+
+ End routine for 7
+
+
+
+ Triangle 8
+
+Triangle: (933.70843505859375, 253.5145721435546875), (935.0184326171875, 253.5374298095703125), (933.685546875, 254.8245697021484375) with color (252, 239, 11)
+Going up triangle:
+	 Triangle: (933.685546875, 254.8245697021484375), (935.0184326171875, 253.5374298095703125), (933.70803569108898046, 253.5374298095703125) with color (252, 239, 11)
+Going down triangle:
+	 Triangle: (933.70843505859375, 253.5145721435546875), (935.0184326171875, 253.5374298095703125), (933.70803569108898046, 253.5374298095703125) with color (252, 239, 11)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	Fragments go from lowX = 934, hiX = 934
+	Triangle 8 is writing to row 254, column 934
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+
+ End routine for 8
+
+
+
+ Triangle 9
+
+Triangle: (934.99554443359375, 254.8474273681640625), (933.685546875, 254.8245697021484375), (935.0184326171875, 253.5374298095703125) with color (255, 240, 1)
+Going up triangle:
+	 Triangle: (934.99554443359375, 254.8474273681640625), (933.685546875, 254.8245697021484375), (934.99594380109851954, 254.8245697021484375) with color (255, 240, 1)
+Going down triangle:
+	 Triangle: (935.0184326171875, 253.5374298095703125), (933.685546875, 254.8245697021484375), (934.99594380109851954, 254.8245697021484375) with color (255, 240, 1)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	Fragments go from lowX = 935, hiX = 935
+	Triangle 9 is writing to row 254, column 935
+
+
+ End routine for 9
+
+
+
+ Triangle 10
+
+Triangle: (935.0184326171875, 253.5374298095703125), (936.3284912109375, 253.560302734375), (934.99554443359375, 254.8474273681640625) with color (255, 239, 3)
+Going up triangle:
+	 Triangle: (934.99554443359375, 254.8474273681640625), (936.3284912109375, 253.560302734375), (935.01803298308220747, 253.560302734375) with color (255, 239, 3)
+Going down triangle:
+	 Triangle: (935.0184326171875, 253.5374298095703125), (936.3284912109375, 253.560302734375), (935.01803298308220747, 253.560302734375) with color (255, 239, 3)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	No fragments: lowX = 936, hiX = 935
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+
+ End routine for 10
+
+
+
+ Triangle 11
+
+Triangle: (936.30560302734375, 254.87030029296875), (934.99554443359375, 254.8474273681640625), (936.3284912109375, 253.560302734375) with color (255, 239, 3)
+Going up triangle:
+	 Triangle: (936.30560302734375, 254.87030029296875), (934.99554443359375, 254.8474273681640625), (936.30600266144904253, 254.8474273681640625) with color (255, 239, 3)
+Going down triangle:
+	 Triangle: (936.3284912109375, 253.560302734375), (934.99554443359375, 254.8474273681640625), (936.30600266144904253, 254.8474273681640625) with color (255, 239, 3)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	Fragments go from lowX = 936, hiX = 936
+	Triangle 11 is writing to row 254, column 936
+
+
+ End routine for 11
+
+
+
+ Triangle 12
+
+Triangle: (936.3284912109375, 253.560302734375), (937.638427734375, 253.583160400390625), (936.30560302734375, 254.87030029296875) with color (253, 238, 11)
+Going up triangle:
+	 Triangle: (936.30560302734375, 254.87030029296875), (937.638427734375, 253.583160400390625), (936.32809184343273046, 253.583160400390625) with color (253, 238, 11)
+Going down triangle:
+	 Triangle: (936.3284912109375, 253.560302734375), (937.638427734375, 253.583160400390625), (936.32809184343273046, 253.583160400390625) with color (253, 238, 11)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	Fragments go from lowX = 937, hiX = 937
+	Triangle 12 is writing to row 254, column 937
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 254, hiY = 253
+
+
+ End routine for 12
+
+
+
+ Triangle 13
+
+Triangle: (937.6156005859375, 254.893157958984375), (936.30560302734375, 254.87030029296875), (937.638427734375, 253.583160400390625) with color (252, 239, 11)
+Going up triangle:
+	 Triangle: (937.6156005859375, 254.893157958984375), (936.30560302734375, 254.87030029296875), (937.61599888846228623, 254.87030029296875) with color (252, 239, 11)
+Going down triangle:
+	 Triangle: (937.638427734375, 253.583160400390625), (936.30560302734375, 254.87030029296875), (937.61599888846228623, 254.87030029296875) with color (252, 239, 11)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 254, hiY = 254
+	Operating on scanline 254
+	No fragments: lowX = 938, hiX = 937
+
+
+ End routine for 13
+
+
+
+ Triangle 14
+
+Triangle: (919.271728515625, 254.79180908203125), (919.252685546875, 255.883026123046875), (917.94512939453125, 255.720001220703125) with color (246, 235, 45)
+Going up triangle:
+	 Triangle: (919.252685546875, 255.883026123046875), (917.94512939453125, 255.720001220703125), (919.25553051538645377, 255.720001220703125) with color (246, 235, 45)
+Going down triangle:
+	 Triangle: (919.271728515625, 254.79180908203125), (917.94512939453125, 255.720001220703125), (919.25553051538645377, 255.720001220703125) with color (246, 235, 45)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 919, hiX = 919
+	Triangle 14 is writing to row 255, column 919
+
+
+ End routine for 14
+
+
+
+ Triangle 15
+
+Triangle: (917.94268798828125, 255.86016845703125), (917.94512939453125, 255.720001220703125), (919.252685546875, 255.883026123046875) with color (253, 238, 11)
+Going up triangle:
+	 Triangle: (919.252685546875, 255.883026123046875), (917.94268798828125, 255.86016845703125), (919.06935354423444551, 255.86016845703125) with color (253, 238, 11)
+Going down triangle:
+	 Triangle: (917.94512939453125, 255.720001220703125), (917.94268798828125, 255.86016845703125), (919.06935354423444551, 255.86016845703125) with color (253, 238, 11)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 15
+
+
+
+ Triangle 16
+
+Triangle: (919.271728515625, 254.79180908203125), (920.581787109375, 254.8146820068359375), (919.252685546875, 255.883026123046875) with color (246, 235, 45)
+Going up triangle:
+	 Triangle: (919.252685546875, 255.883026123046875), (920.581787109375, 254.8146820068359375), (919.27132935727627228, 254.8146820068359375) with color (246, 235, 45)
+Going down triangle:
+	 Triangle: (919.271728515625, 254.79180908203125), (920.581787109375, 254.8146820068359375), (919.27132935727627228, 254.8146820068359375) with color (246, 235, 45)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 920, hiX = 920
+	Triangle 16 is writing to row 255, column 920
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 16
+
+
+
+ Triangle 17
+
+Triangle: (920.562744140625, 255.9058990478515625), (919.252685546875, 255.883026123046875), (920.581787109375, 254.8146820068359375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (920.562744140625, 255.9058990478515625), (919.252685546875, 255.883026123046875), (920.56314329897384141, 255.883026123046875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (920.581787109375, 254.8146820068359375), (919.252685546875, 255.883026123046875), (920.56314329897384141, 255.883026123046875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	No fragments: lowX = 921, hiX = 920
+
+
+ End routine for 17
+
+
+
+ Triangle 18
+
+Triangle: (921.89556884765625, 254.6187744140625), (921.8726806640625, 255.92877197265625), (920.581787109375, 254.8146820068359375) with color (248, 235, 42)
+Going up triangle:
+	 Triangle: (921.8726806640625, 255.92877197265625), (920.581787109375, 254.8146820068359375), (921.89214596421538772, 254.8146820068359375) with color (248, 235, 42)
+Going down triangle:
+	 Triangle: (921.89556884765625, 254.6187744140625), (920.581787109375, 254.8146820068359375), (921.89214596421538772, 254.8146820068359375) with color (248, 235, 42)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 921, hiX = 921
+	Triangle 18 is writing to row 255, column 921
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 18
+
+
+
+ Triangle 19
+
+Triangle: (920.562744140625, 255.9058990478515625), (920.581787109375, 254.8146820068359375), (921.8726806640625, 255.92877197265625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (921.8726806640625, 255.92877197265625), (920.562744140625, 255.9058990478515625), (921.84617785718592131, 255.9058990478515625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (920.581787109375, 254.8146820068359375), (920.562744140625, 255.9058990478515625), (921.84617785718592131, 255.9058990478515625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	No fragments: lowX = 921, hiX = 920
+
+
+ End routine for 19
+
+
+
+ Triangle 20
+
+Triangle: (921.89556884765625, 254.6187744140625), (923.20556640625, 254.641632080078125), (921.8726806640625, 255.92877197265625) with color (248, 235, 42)
+Going up triangle:
+	 Triangle: (921.8726806640625, 255.92877197265625), (923.20556640625, 254.641632080078125), (921.89516948015136677, 254.641632080078125) with color (248, 235, 42)
+Going down triangle:
+	 Triangle: (921.89556884765625, 254.6187744140625), (923.20556640625, 254.641632080078125), (921.89516948015136677, 254.641632080078125) with color (248, 235, 42)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 922, hiX = 922
+	Triangle 20 is writing to row 255, column 922
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 20
+
+
+
+ Triangle 21
+
+Triangle: (923.20556640625, 254.641632080078125), (924.51556396484375, 254.6645050048828125), (923.18267822265625, 255.951629638671875) with color (248, 236, 38)
+Going up triangle:
+	 Triangle: (923.18267822265625, 255.951629638671875), (924.51556396484375, 254.6645050048828125), (923.20516677214470747, 254.6645050048828125) with color (248, 236, 38)
+Going down triangle:
+	 Triangle: (923.20556640625, 254.641632080078125), (924.51556396484375, 254.6645050048828125), (923.20516677214470747, 254.6645050048828125) with color (248, 236, 38)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 924, hiX = 924
+	Triangle 21 is writing to row 255, column 924
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 21
+
+
+
+ Triangle 22
+
+Triangle: (924.49273681640625, 255.9745025634765625), (923.18267822265625, 255.951629638671875), (924.51556396484375, 254.6645050048828125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (924.49273681640625, 255.9745025634765625), (923.18267822265625, 255.951629638671875), (924.49313538482067543, 255.951629638671875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (924.51556396484375, 254.6645050048828125), (923.18267822265625, 255.951629638671875), (924.49313538482067543, 255.951629638671875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	No fragments: lowX = 925, hiX = 924
+
+
+ End routine for 22
+
+
+
+ Triangle 23
+
+Triangle: (924.51556396484375, 254.6645050048828125), (925.8255615234375, 254.6873626708984375), (924.49273681640625, 255.9745025634765625) with color (249, 236, 33)
+Going up triangle:
+	 Triangle: (924.49273681640625, 255.9745025634765625), (925.8255615234375, 254.6873626708984375), (924.51516566231896377, 254.6873626708984375) with color (249, 236, 33)
+Going down triangle:
+	 Triangle: (924.51556396484375, 254.6645050048828125), (925.8255615234375, 254.6873626708984375), (924.51516566231896377, 254.6873626708984375) with color (249, 236, 33)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 925, hiX = 925
+	Triangle 23 is writing to row 255, column 925
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 23
+
+
+
+ Triangle 24
+
+Triangle: (925.80267333984375, 255.9973602294921875), (924.49273681640625, 255.9745025634765625), (925.8255615234375, 254.6873626708984375) with color (254, 239, 0)
+Going up triangle:
+	 Triangle: (925.80267333984375, 255.9973602294921875), (924.49273681640625, 255.9745025634765625), (925.80307270734851954, 255.9745025634765625) with color (254, 239, 0)
+Going down triangle:
+	 Triangle: (925.8255615234375, 254.6873626708984375), (924.49273681640625, 255.9745025634765625), (925.80307270734851954, 255.9745025634765625) with color (254, 239, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	No fragments: lowX = 926, hiX = 925
+
+
+ End routine for 24
+
+
+
+ Triangle 25
+
+Triangle: (925.8255615234375, 254.6873626708984375), (927.13555908203125, 254.710235595703125), (925.80267333984375, 255.9973602294921875) with color (249, 237, 29)
+Going up triangle:
+	 Triangle: (925.80267333984375, 255.9973602294921875), (927.13555908203125, 254.710235595703125), (925.82516188933220747, 254.710235595703125) with color (249, 237, 29)
+Going down triangle:
+	 Triangle: (925.8255615234375, 254.6873626708984375), (927.13555908203125, 254.710235595703125), (925.82516188933220747, 254.710235595703125) with color (249, 237, 29)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 926, hiX = 926
+	Triangle 25 is writing to row 255, column 926
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 25
+
+
+
+ Triangle 26
+
+Triangle: (927.1126708984375, 256.020233154296875), (925.80267333984375, 255.9973602294921875), (927.13555908203125, 254.710235595703125) with color (253, 241, 0)
+Going up triangle:
+	 Triangle: (927.1126708984375, 256.020233154296875), (925.80267333984375, 255.9973602294921875), (927.11307053254279253, 255.9973602294921875) with color (253, 241, 0)
+Going down triangle:
+	 Triangle: (927.13555908203125, 254.710235595703125), (925.80267333984375, 255.9973602294921875), (927.11307053254279253, 255.9973602294921875) with color (253, 241, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 256
+	Operating on scanline 256
+	Fragments go from lowX = 926, hiX = 927
+	Triangle 26 is writing to row 256, column 926
+	Triangle 26 is writing to row 256, column 927
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 255
+	Operating on scanline 255
+	Fragments go from lowX = 927, hiX = 927
+	Triangle 26 is writing to row 255, column 927
+
+
+ End routine for 26
+
+
+
+ Triangle 27
+
+Triangle: (927.13555908203125, 254.710235595703125), (928.44561767578125, 254.73309326171875), (927.1126708984375, 256.020233154296875) with color (249, 238, 26)
+Going up triangle:
+	 Triangle: (927.1126708984375, 256.020233154296875), (928.44561767578125, 254.73309326171875), (927.13515971452648046, 254.73309326171875) with color (249, 238, 26)
+Going down triangle:
+	 Triangle: (927.13555908203125, 254.710235595703125), (928.44561767578125, 254.73309326171875), (927.13515971452648046, 254.73309326171875) with color (249, 238, 26)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 928, hiX = 928
+	Triangle 27 is writing to row 255, column 928
+	Operating on scanline 256
+	No fragments: lowX = 928, hiX = 927
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 27
+
+
+
+ Triangle 28
+
+Triangle: (928.4227294921875, 256.0430908203125), (927.1126708984375, 256.020233154296875), (928.44561767578125, 254.73309326171875) with color (253, 241, 0)
+Going up triangle:
+	 Triangle: (928.4227294921875, 256.0430908203125), (927.1126708984375, 256.020233154296875), (928.42312885969226954, 256.020233154296875) with color (253, 241, 0)
+Going down triangle:
+	 Triangle: (928.44561767578125, 254.73309326171875), (927.1126708984375, 256.020233154296875), (928.42312885969226954, 256.020233154296875) with color (253, 241, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 929, hiX = 928
+	Operating on scanline 256
+	Fragments go from lowX = 928, hiX = 928
+	Triangle 28 is writing to row 256, column 928
+
+
+ End routine for 28
+
+
+
+ Triangle 29
+
+Triangle: (928.44561767578125, 254.73309326171875), (929.75555419921875, 254.7559661865234375), (928.4227294921875, 256.0430908203125) with color (251, 238, 20)
+Going up triangle:
+	 Triangle: (928.4227294921875, 256.0430908203125), (929.75555419921875, 254.7559661865234375), (928.44521804167595747, 254.7559661865234375) with color (251, 238, 20)
+Going down triangle:
+	 Triangle: (928.44561767578125, 254.73309326171875), (929.75555419921875, 254.7559661865234375), (928.44521804167595747, 254.7559661865234375) with color (251, 238, 20)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 929, hiX = 929
+	Triangle 29 is writing to row 255, column 929
+	Operating on scanline 256
+	No fragments: lowX = 929, hiX = 928
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 29
+
+
+
+ Triangle 30
+
+Triangle: (929.73272705078125, 256.065948486328125), (928.4227294921875, 256.0430908203125), (929.75555419921875, 254.7559661865234375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (929.73272705078125, 256.065948486328125), (928.4227294921875, 256.0430908203125), (929.73312535794548239, 256.0430908203125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (929.75555419921875, 254.7559661865234375), (928.4227294921875, 256.0430908203125), (929.73312535794548239, 256.0430908203125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 930, hiX = 929
+	Operating on scanline 256
+	Fragments go from lowX = 929, hiX = 929
+	Triangle 30 is writing to row 256, column 929
+
+
+ End routine for 30
+
+
+
+ Triangle 31
+
+Triangle: (929.75555419921875, 254.7559661865234375), (931.0655517578125, 254.778839111328125), (929.73272705078125, 256.065948486328125) with color (252, 238, 17)
+Going up triangle:
+	 Triangle: (929.73272705078125, 256.065948486328125), (931.0655517578125, 254.778839111328125), (929.75515562616180887, 254.778839111328125) with color (252, 238, 17)
+Going down triangle:
+	 Triangle: (929.75555419921875, 254.7559661865234375), (931.0655517578125, 254.778839111328125), (929.75515562616180887, 254.778839111328125) with color (252, 238, 17)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 930, hiX = 930
+	Triangle 31 is writing to row 255, column 930
+	Operating on scanline 256
+	No fragments: lowX = 930, hiX = 929
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 31
+
+
+
+ Triangle 32
+
+Triangle: (931.04266357421875, 256.088836669921875), (929.73272705078125, 256.065948486328125), (931.0655517578125, 254.778839111328125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (931.04266357421875, 256.088836669921875), (929.73272705078125, 256.065948486328125), (931.04306347492445184, 256.065948486328125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (931.0655517578125, 254.778839111328125), (929.73272705078125, 256.065948486328125), (931.04306347492445184, 256.065948486328125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 931, hiX = 931
+	Triangle 32 is writing to row 255, column 931
+	Operating on scanline 256
+	Fragments go from lowX = 930, hiX = 931
+	Triangle 32 is writing to row 256, column 930
+	Triangle 32 is writing to row 256, column 931
+
+
+ End routine for 32
+
+
+
+ Triangle 33
+
+Triangle: (931.0655517578125, 254.778839111328125), (932.3756103515625, 254.80169677734375), (931.04266357421875, 256.088836669921875) with color (252, 239, 11)
+Going up triangle:
+	 Triangle: (931.04266357421875, 256.088836669921875), (932.3756103515625, 254.80169677734375), (931.06515239030761677, 254.80169677734375) with color (252, 239, 11)
+Going down triangle:
+	 Triangle: (931.0655517578125, 254.778839111328125), (932.3756103515625, 254.80169677734375), (931.06515239030761677, 254.80169677734375) with color (252, 239, 11)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 932, hiX = 932
+	Triangle 33 is writing to row 255, column 932
+	Operating on scanline 256
+	No fragments: lowX = 932, hiX = 931
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 33
+
+
+
+ Triangle 34
+
+Triangle: (932.35272216796875, 256.1116943359375), (931.04266357421875, 256.088836669921875), (932.3756103515625, 254.80169677734375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (932.35272216796875, 256.1116943359375), (931.04266357421875, 256.088836669921875), (932.35312153547363323, 256.088836669921875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (932.3756103515625, 254.80169677734375), (931.04266357421875, 256.088836669921875), (932.35312153547363323, 256.088836669921875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 933, hiX = 932
+	Operating on scanline 256
+	Fragments go from lowX = 932, hiX = 932
+	Triangle 34 is writing to row 256, column 932
+
+
+ End routine for 34
+
+
+
+ Triangle 35
+
+Triangle: (932.3756103515625, 254.80169677734375), (933.685546875, 254.8245697021484375), (932.35272216796875, 256.1116943359375) with color (253, 239, 8)
+Going up triangle:
+	 Triangle: (932.35272216796875, 256.1116943359375), (933.685546875, 254.8245697021484375), (932.37521071745720747, 254.8245697021484375) with color (253, 239, 8)
+Going down triangle:
+	 Triangle: (932.3756103515625, 254.80169677734375), (933.685546875, 254.8245697021484375), (932.37521071745720747, 254.8245697021484375) with color (253, 239, 8)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 933, hiX = 933
+	Triangle 35 is writing to row 255, column 933
+	Operating on scanline 256
+	No fragments: lowX = 933, hiX = 932
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 35
+
+
+
+ Triangle 36
+
+Triangle: (933.6627197265625, 256.134552001953125), (932.35272216796875, 256.1116943359375), (933.685546875, 254.8245697021484375) with color (255, 241, 0)
+Going up triangle:
+	 Triangle: (933.6627197265625, 256.134552001953125), (932.35272216796875, 256.1116943359375), (933.66311803372673239, 256.1116943359375) with color (255, 241, 0)
+Going down triangle:
+	 Triangle: (933.685546875, 254.8245697021484375), (932.35272216796875, 256.1116943359375), (933.66311803372673239, 256.1116943359375) with color (255, 241, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 934, hiX = 933
+	Operating on scanline 256
+	Fragments go from lowX = 933, hiX = 933
+	Triangle 36 is writing to row 256, column 933
+
+
+ End routine for 36
+
+
+
+ Triangle 37
+
+Triangle: (933.685546875, 254.8245697021484375), (934.99554443359375, 254.8474273681640625), (933.6627197265625, 256.134552001953125) with color (253, 240, 3)
+Going up triangle:
+	 Triangle: (933.6627197265625, 256.134552001953125), (934.99554443359375, 254.8474273681640625), (933.68514856783565392, 254.8474273681640625) with color (253, 240, 3)
+Going down triangle:
+	 Triangle: (933.685546875, 254.8245697021484375), (934.99554443359375, 254.8474273681640625), (933.68514856783565392, 254.8474273681640625) with color (253, 240, 3)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 934, hiX = 934
+	Triangle 37 is writing to row 255, column 934
+	Operating on scanline 256
+	No fragments: lowX = 934, hiX = 933
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 37
+
+
+
+ Triangle 38
+
+Triangle: (934.97271728515625, 256.157440185546875), (933.6627197265625, 256.134552001953125), (934.99554443359375, 254.8474273681640625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (934.97271728515625, 256.157440185546875), (933.6627197265625, 256.134552001953125), (934.973116114814502, 256.134552001953125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (934.99554443359375, 254.8474273681640625), (933.6627197265625, 256.134552001953125), (934.973116114814502, 256.134552001953125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 935, hiX = 934
+	Operating on scanline 256
+	Fragments go from lowX = 934, hiX = 934
+	Triangle 38 is writing to row 256, column 934
+
+
+ End routine for 38
+
+
+
+ Triangle 39
+
+Triangle: (934.99554443359375, 254.8474273681640625), (936.30560302734375, 254.87030029296875), (934.97271728515625, 256.157440185546875) with color (255, 240, 1)
+Going up triangle:
+	 Triangle: (934.97271728515625, 256.157440185546875), (936.30560302734375, 254.87030029296875), (934.99514586982184028, 254.87030029296875) with color (255, 240, 1)
+Going down triangle:
+	 Triangle: (934.99554443359375, 254.8474273681640625), (936.30560302734375, 254.87030029296875), (934.99514586982184028, 254.87030029296875) with color (255, 240, 1)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 935, hiX = 936
+	Triangle 39 is writing to row 255, column 935
+	Triangle 39 is writing to row 255, column 936
+	Operating on scanline 256
+	Fragments go from lowX = 935, hiX = 935
+	Triangle 39 is writing to row 256, column 935
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 39
+
+
+
+ Triangle 40
+
+Triangle: (936.28271484375, 256.1802978515625), (934.97271728515625, 256.157440185546875), (936.30560302734375, 254.87030029296875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (936.28271484375, 256.1802978515625), (934.97271728515625, 256.157440185546875), (936.28311421125488323, 256.157440185546875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (936.30560302734375, 254.87030029296875), (934.97271728515625, 256.157440185546875), (936.28311421125488323, 256.157440185546875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 937, hiX = 936
+	Operating on scanline 256
+	Fragments go from lowX = 936, hiX = 936
+	Triangle 40 is writing to row 256, column 936
+
+
+ End routine for 40
+
+
+
+ Triangle 41
+
+Triangle: (936.30560302734375, 254.87030029296875), (937.6156005859375, 254.893157958984375), (936.28271484375, 256.1802978515625) with color (255, 239, 3)
+Going up triangle:
+	 Triangle: (936.28271484375, 256.1802978515625), (937.6156005859375, 254.893157958984375), (936.30520365983898046, 254.893157958984375) with color (255, 239, 3)
+Going down triangle:
+	 Triangle: (936.30560302734375, 254.87030029296875), (937.6156005859375, 254.893157958984375), (936.30520365983898046, 254.893157958984375) with color (255, 239, 3)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 937, hiX = 937
+	Triangle 41 is writing to row 255, column 937
+	Operating on scanline 256
+	No fragments: lowX = 937, hiX = 936
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 41
+
+
+
+ Triangle 42
+
+Triangle: (937.59271240234375, 256.203155517578125), (936.28271484375, 256.1802978515625), (937.6156005859375, 254.893157958984375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (937.59271240234375, 256.203155517578125), (936.28271484375, 256.1802978515625), (937.59311176984851954, 256.1802978515625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (937.6156005859375, 254.893157958984375), (936.28271484375, 256.1802978515625), (937.59311176984851954, 256.1802978515625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 938, hiX = 937
+	Operating on scanline 256
+	Fragments go from lowX = 937, hiX = 937
+	Triangle 42 is writing to row 256, column 937
+
+
+ End routine for 42
+
+
+
+ Triangle 43
+
+Triangle: (937.6156005859375, 254.893157958984375), (938.925537109375, 254.9160308837890625), (937.59271240234375, 256.203155517578125) with color (252, 239, 11)
+Going up triangle:
+	 Triangle: (937.59271240234375, 256.203155517578125), (938.925537109375, 254.9160308837890625), (937.61520095183220747, 254.9160308837890625) with color (252, 239, 11)
+Going down triangle:
+	 Triangle: (937.6156005859375, 254.893157958984375), (938.925537109375, 254.9160308837890625), (937.61520095183220747, 254.9160308837890625) with color (252, 239, 11)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 938, hiX = 938
+	Triangle 43 is writing to row 255, column 938
+	Operating on scanline 256
+	No fragments: lowX = 938, hiX = 937
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 43
+
+
+
+ Triangle 44
+
+Triangle: (938.9027099609375, 256.22601318359375), (937.59271240234375, 256.203155517578125), (938.925537109375, 254.9160308837890625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (938.9027099609375, 256.22601318359375), (937.59271240234375, 256.203155517578125), (938.90310826810173239, 256.203155517578125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (938.925537109375, 254.9160308837890625), (937.59271240234375, 256.203155517578125), (938.90310826810173239, 256.203155517578125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 939, hiX = 938
+	Operating on scanline 256
+	Fragments go from lowX = 938, hiX = 938
+	Triangle 44 is writing to row 256, column 938
+
+
+ End routine for 44
+
+
+
+ Triangle 45
+
+Triangle: (938.925537109375, 254.9160308837890625), (940.235595703125, 254.9388885498046875), (938.9027099609375, 256.22601318359375) with color (251, 237, 24)
+Going up triangle:
+	 Triangle: (938.9027099609375, 256.22601318359375), (940.235595703125, 254.9388885498046875), (938.92513880221076761, 254.9388885498046875) with color (251, 237, 24)
+Going down triangle:
+	 Triangle: (938.925537109375, 254.9160308837890625), (940.235595703125, 254.9388885498046875), (938.92513880221076761, 254.9388885498046875) with color (251, 237, 24)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	Fragments go from lowX = 939, hiX = 940
+	Triangle 45 is writing to row 255, column 939
+	Triangle 45 is writing to row 255, column 940
+	Operating on scanline 256
+	Fragments go from lowX = 939, hiX = 939
+	Triangle 45 is writing to row 256, column 939
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 255, hiY = 254
+
+
+ End routine for 45
+
+
+
+ Triangle 46
+
+Triangle: (940.21270751953125, 256.2489013671875), (938.9027099609375, 256.22601318359375), (940.235595703125, 254.9388885498046875) with color (253, 240, 1)
+Going up triangle:
+	 Triangle: (940.21270751953125, 256.2489013671875), (938.9027099609375, 256.22601318359375), (940.21310741557908841, 256.22601318359375) with color (253, 240, 1)
+Going down triangle:
+	 Triangle: (940.235595703125, 254.9388885498046875), (938.9027099609375, 256.22601318359375), (940.21310741557908841, 256.22601318359375) with color (253, 240, 1)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 255, hiY = 256
+	Operating on scanline 255
+	No fragments: lowX = 941, hiX = 940
+	Operating on scanline 256
+	Fragments go from lowX = 940, hiX = 940
+	Triangle 46 is writing to row 256, column 940
+
+
+ End routine for 46
+
+
+
+ Triangle 47
+
+Triangle: (915.32275390625, 255.8144378662109375), (916.6326904296875, 255.8372955322265625), (915.29986572265625, 257.124420166015625) with color (250, 237, 35)
+Going up triangle:
+	 Triangle: (915.29986572265625, 257.124420166015625), (916.6326904296875, 255.8372955322265625), (915.32235453409327874, 255.8372955322265625) with color (250, 237, 35)
+Going down triangle:
+	 Triangle: (915.32275390625, 255.8144378662109375), (916.6326904296875, 255.8372955322265625), (915.32235453409327874, 255.8372955322265625) with color (250, 237, 35)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 916, hiX = 916
+	Triangle 47 is writing to row 256, column 916
+	Operating on scanline 257
+	No fragments: lowX = 916, hiX = 915
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 47
+
+
+
+ Triangle 48
+
+Triangle: (916.60986328125, 257.147308349609375), (915.29986572265625, 257.124420166015625), (916.6326904296875, 255.8372955322265625) with color (253, 239, 6)
+Going up triangle:
+	 Triangle: (916.60986328125, 257.147308349609375), (915.29986572265625, 257.124420166015625), (916.610262110908252, 257.124420166015625) with color (253, 239, 6)
+Going down triangle:
+	 Triangle: (916.6326904296875, 255.8372955322265625), (915.29986572265625, 257.124420166015625), (916.610262110908252, 257.124420166015625) with color (253, 239, 6)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 917, hiX = 916
+	Operating on scanline 257
+	Fragments go from lowX = 916, hiX = 916
+	Triangle 48 is writing to row 257, column 916
+
+
+ End routine for 48
+
+
+
+ Triangle 49
+
+Triangle: (916.6326904296875, 255.8372955322265625), (917.94268798828125, 255.86016845703125), (916.60986328125, 257.147308349609375) with color (252, 237, 22)
+Going up triangle:
+	 Triangle: (916.60986328125, 257.147308349609375), (917.94268798828125, 255.86016845703125), (916.63229186591559028, 255.86016845703125) with color (252, 237, 22)
+Going down triangle:
+	 Triangle: (916.6326904296875, 255.8372955322265625), (917.94268798828125, 255.86016845703125), (916.63229186591559028, 255.86016845703125) with color (252, 237, 22)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 917, hiX = 917
+	Triangle 49 is writing to row 256, column 917
+	Operating on scanline 257
+	No fragments: lowX = 917, hiX = 916
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 49
+
+
+
+ Triangle 50
+
+Triangle: (917.9197998046875, 257.170166015625), (916.60986328125, 257.147308349609375), (917.94268798828125, 255.86016845703125) with color (255, 239, 3)
+Going up triangle:
+	 Triangle: (917.9197998046875, 257.170166015625), (916.60986328125, 257.147308349609375), (917.92019917219226954, 257.147308349609375) with color (255, 239, 3)
+Going down triangle:
+	 Triangle: (917.94268798828125, 255.86016845703125), (916.60986328125, 257.147308349609375), (917.92019917219226954, 257.147308349609375) with color (255, 239, 3)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 918, hiX = 917
+	Operating on scanline 257
+	Fragments go from lowX = 917, hiX = 917
+	Triangle 50 is writing to row 257, column 917
+
+
+ End routine for 50
+
+
+
+ Triangle 51
+
+Triangle: (917.94268798828125, 255.86016845703125), (919.252685546875, 255.883026123046875), (917.9197998046875, 257.170166015625) with color (253, 238, 11)
+Going up triangle:
+	 Triangle: (917.9197998046875, 257.170166015625), (919.252685546875, 255.883026123046875), (917.94228862077636677, 255.883026123046875) with color (253, 238, 11)
+Going down triangle:
+	 Triangle: (917.94268798828125, 255.86016845703125), (919.252685546875, 255.883026123046875), (917.94228862077636677, 255.883026123046875) with color (253, 238, 11)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 918, hiX = 919
+	Triangle 51 is writing to row 256, column 918
+	Triangle 51 is writing to row 256, column 919
+	Operating on scanline 257
+	Fragments go from lowX = 918, hiX = 918
+	Triangle 51 is writing to row 257, column 918
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 51
+
+
+
+ Triangle 52
+
+Triangle: (919.22979736328125, 257.193023681640625), (917.9197998046875, 257.170166015625), (919.252685546875, 255.883026123046875) with color (255, 241, 2)
+Going up triangle:
+	 Triangle: (919.22979736328125, 257.193023681640625), (917.9197998046875, 257.170166015625), (919.23019673078601954, 257.170166015625) with color (255, 241, 2)
+Going down triangle:
+	 Triangle: (919.252685546875, 255.883026123046875), (917.9197998046875, 257.170166015625), (919.23019673078601954, 257.170166015625) with color (255, 241, 2)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 920, hiX = 919
+	Operating on scanline 257
+	Fragments go from lowX = 919, hiX = 919
+	Triangle 52 is writing to row 257, column 919
+
+
+ End routine for 52
+
+
+
+ Triangle 53
+
+Triangle: (919.252685546875, 255.883026123046875), (920.562744140625, 255.9058990478515625), (919.22979736328125, 257.193023681640625) with color (255, 240, 4)
+Going up triangle:
+	 Triangle: (919.22979736328125, 257.193023681640625), (920.562744140625, 255.9058990478515625), (919.25228591276970747, 255.9058990478515625) with color (255, 240, 4)
+Going down triangle:
+	 Triangle: (919.252685546875, 255.883026123046875), (920.562744140625, 255.9058990478515625), (919.25228591276970747, 255.9058990478515625) with color (255, 240, 4)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 920, hiX = 920
+	Triangle 53 is writing to row 256, column 920
+	Operating on scanline 257
+	No fragments: lowX = 920, hiX = 919
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 53
+
+
+
+ Triangle 54
+
+Triangle: (920.53985595703125, 257.21588134765625), (919.22979736328125, 257.193023681640625), (920.562744140625, 255.9058990478515625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (920.53985595703125, 257.21588134765625), (919.22979736328125, 257.193023681640625), (920.54025532918785757, 257.193023681640625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (920.562744140625, 255.9058990478515625), (919.22979736328125, 257.193023681640625), (920.54025532918785757, 257.193023681640625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 921, hiX = 920
+	Operating on scanline 257
+	Fragments go from lowX = 920, hiX = 920
+	Triangle 54 is writing to row 257, column 920
+
+
+ End routine for 54
+
+
+
+ Triangle 55
+
+Triangle: (920.562744140625, 255.9058990478515625), (921.8726806640625, 255.92877197265625), (920.53985595703125, 257.21588134765625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (920.53985595703125, 257.21588134765625), (921.8726806640625, 255.92877197265625), (920.56234450186468621, 255.92877197265625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (920.562744140625, 255.9058990478515625), (921.8726806640625, 255.92877197265625), (920.56234450186468621, 255.92877197265625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 921, hiX = 921
+	Triangle 55 is writing to row 256, column 921
+	Operating on scanline 257
+	No fragments: lowX = 921, hiX = 920
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 55
+
+
+
+ Triangle 56
+
+Triangle: (921.849853515625, 257.23876953125), (920.53985595703125, 257.21588134765625), (921.8726806640625, 255.92877197265625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (921.849853515625, 257.23876953125), (920.53985595703125, 257.21588134765625), (921.85025234992895093, 257.21588134765625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (921.8726806640625, 255.92877197265625), (920.53985595703125, 257.21588134765625), (921.85025234992895093, 257.21588134765625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 922, hiX = 921
+	Operating on scanline 257
+	Fragments go from lowX = 921, hiX = 921
+	Triangle 56 is writing to row 257, column 921
+
+
+ End routine for 56
+
+
+
+ Triangle 57
+
+Triangle: (921.8726806640625, 255.92877197265625), (923.18267822265625, 255.951629638671875), (921.849853515625, 257.23876953125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (921.849853515625, 257.23876953125), (923.18267822265625, 255.951629638671875), (921.87228236153771377, 255.951629638671875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (921.8726806640625, 255.92877197265625), (923.18267822265625, 255.951629638671875), (921.87228236153771377, 255.951629638671875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 922, hiX = 923
+	Triangle 57 is writing to row 256, column 922
+	Triangle 57 is writing to row 256, column 923
+	Operating on scanline 257
+	Fragments go from lowX = 922, hiX = 922
+	Triangle 57 is writing to row 257, column 922
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 57
+
+
+
+ Triangle 58
+
+Triangle: (923.1597900390625, 257.261627197265625), (921.849853515625, 257.23876953125), (923.18267822265625, 255.951629638671875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (923.1597900390625, 257.261627197265625), (921.849853515625, 257.23876953125), (923.16018940656738323, 257.23876953125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (923.18267822265625, 255.951629638671875), (921.849853515625, 257.23876953125), (923.16018940656738323, 257.23876953125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 924, hiX = 923
+	Operating on scanline 257
+	Fragments go from lowX = 923, hiX = 923
+	Triangle 58 is writing to row 257, column 923
+
+
+ End routine for 58
+
+
+
+ Triangle 59
+
+Triangle: (923.18267822265625, 255.951629638671875), (924.49273681640625, 255.9745025634765625), (923.1597900390625, 257.261627197265625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (923.1597900390625, 257.261627197265625), (924.49273681640625, 255.9745025634765625), (923.18227858855095747, 255.9745025634765625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (923.18267822265625, 255.951629638671875), (924.49273681640625, 255.9745025634765625), (923.18227858855095747, 255.9745025634765625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 924, hiX = 924
+	Triangle 59 is writing to row 256, column 924
+	Operating on scanline 257
+	No fragments: lowX = 924, hiX = 923
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 59
+
+
+
+ Triangle 60
+
+Triangle: (924.4698486328125, 257.28448486328125), (923.1597900390625, 257.261627197265625), (924.49273681640625, 255.9745025634765625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (924.4698486328125, 257.28448486328125), (923.1597900390625, 257.261627197265625), (924.47024800496922126, 257.261627197265625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (924.49273681640625, 255.9745025634765625), (923.1597900390625, 257.261627197265625), (924.47024800496922126, 257.261627197265625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 925, hiX = 924
+	Operating on scanline 257
+	Fragments go from lowX = 924, hiX = 924
+	Triangle 60 is writing to row 257, column 924
+
+
+ End routine for 60
+
+
+
+ Triangle 61
+
+Triangle: (924.49273681640625, 255.9745025634765625), (925.80267333984375, 255.9973602294921875), (924.4698486328125, 257.28448486328125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (924.4698486328125, 257.28448486328125), (925.80267333984375, 255.9973602294921875), (924.49233744424952874, 255.9973602294921875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (924.49273681640625, 255.9745025634765625), (925.80267333984375, 255.9973602294921875), (924.49233744424952874, 255.9973602294921875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	Fragments go from lowX = 925, hiX = 925
+	Triangle 61 is writing to row 256, column 925
+	Operating on scanline 257
+	No fragments: lowX = 925, hiX = 924
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 256, hiY = 255
+
+
+ End routine for 61
+
+
+
+ Triangle 62
+
+Triangle: (925.77984619140625, 257.307373046875), (924.4698486328125, 257.28448486328125), (925.80267333984375, 255.9973602294921875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (925.77984619140625, 257.307373046875), (924.4698486328125, 257.28448486328125), (925.78024502106461568, 257.28448486328125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (925.80267333984375, 255.9973602294921875), (924.4698486328125, 257.28448486328125), (925.78024502106461568, 257.28448486328125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 257
+	Operating on scanline 256
+	No fragments: lowX = 926, hiX = 925
+	Operating on scanline 257
+	Fragments go from lowX = 925, hiX = 925
+	Triangle 62 is writing to row 257, column 925
+
+
+ End routine for 62
+
+
+
+ Triangle 63
+
+Triangle: (925.80267333984375, 255.9973602294921875), (927.1126708984375, 256.020233154296875), (925.77984619140625, 257.307373046875) with color (254, 239, 0)
+Going up triangle:
+	 Triangle: (925.77984619140625, 257.307373046875), (927.1126708984375, 256.020233154296875), (925.80227477607184028, 256.020233154296875) with color (254, 239, 0)
+Going down triangle:
+	 Triangle: (925.80267333984375, 255.9973602294921875), (927.1126708984375, 256.020233154296875), (925.80227477607184028, 256.020233154296875) with color (254, 239, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 926, hiX = 926
+	Triangle 63 is writing to row 257, column 926
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 256, hiY = 256
+	Operating on scanline 256
+	No fragments: lowX = 926, hiX = 925
+
+
+ End routine for 63
+
+
+
+ Triangle 64
+
+Triangle: (927.08984375, 257.330230712890625), (925.77984619140625, 257.307373046875), (927.1126708984375, 256.020233154296875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (927.08984375, 257.330230712890625), (925.77984619140625, 257.307373046875), (927.09024205252478623, 257.307373046875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (927.1126708984375, 256.020233154296875), (925.77984619140625, 257.307373046875), (927.09024205252478623, 257.307373046875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 927, hiX = 927
+	Triangle 64 is writing to row 257, column 927
+
+
+ End routine for 64
+
+
+
+ Triangle 65
+
+Triangle: (927.1126708984375, 256.020233154296875), (928.4227294921875, 256.0430908203125), (927.08984375, 257.330230712890625) with color (253, 241, 0)
+Going up triangle:
+	 Triangle: (927.08984375, 257.330230712890625), (928.4227294921875, 256.0430908203125), (927.11227259591271377, 256.0430908203125) with color (253, 241, 0)
+Going down triangle:
+	 Triangle: (927.1126708984375, 256.020233154296875), (928.4227294921875, 256.0430908203125), (927.11227259591271377, 256.0430908203125) with color (253, 241, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 928, hiX = 927
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 65
+
+
+
+ Triangle 66
+
+Triangle: (928.39984130859375, 257.35308837890625), (927.08984375, 257.330230712890625), (928.4227294921875, 256.0430908203125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (928.39984130859375, 257.35308837890625), (927.08984375, 257.330230712890625), (928.40024067609851954, 257.330230712890625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (928.4227294921875, 256.0430908203125), (927.08984375, 257.330230712890625), (928.40024067609851954, 257.330230712890625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 928, hiX = 928
+	Triangle 66 is writing to row 257, column 928
+
+
+ End routine for 66
+
+
+
+ Triangle 67
+
+Triangle: (928.4227294921875, 256.0430908203125), (929.73272705078125, 256.065948486328125), (928.39984130859375, 257.35308837890625) with color (253, 241, 0)
+Going up triangle:
+	 Triangle: (928.39984130859375, 257.35308837890625), (929.73272705078125, 256.065948486328125), (928.42233012468273046, 256.065948486328125) with color (253, 241, 0)
+Going down triangle:
+	 Triangle: (928.4227294921875, 256.0430908203125), (929.73272705078125, 256.065948486328125), (928.42233012468273046, 256.065948486328125) with color (253, 241, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 929, hiX = 928
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 67
+
+
+
+ Triangle 68
+
+Triangle: (929.7098388671875, 257.375946044921875), (928.39984130859375, 257.35308837890625), (929.73272705078125, 256.065948486328125) with color (254, 239, 0)
+Going up triangle:
+	 Triangle: (929.7098388671875, 257.375946044921875), (928.39984130859375, 257.35308837890625), (929.71023823469238323, 257.35308837890625) with color (254, 239, 0)
+Going down triangle:
+	 Triangle: (929.73272705078125, 256.065948486328125), (928.39984130859375, 257.35308837890625), (929.71023823469238323, 257.35308837890625) with color (254, 239, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 929, hiX = 929
+	Triangle 68 is writing to row 257, column 929
+
+
+ End routine for 68
+
+
+
+ Triangle 69
+
+Triangle: (929.73272705078125, 256.065948486328125), (931.04266357421875, 256.088836669921875), (929.7098388671875, 257.375946044921875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (929.7098388671875, 257.375946044921875), (931.04266357421875, 256.088836669921875), (929.73232715007554816, 256.088836669921875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (929.73272705078125, 256.065948486328125), (931.04266357421875, 256.088836669921875), (929.73232715007554816, 256.088836669921875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 930, hiX = 930
+	Triangle 69 is writing to row 257, column 930
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 69
+
+
+
+ Triangle 70
+
+Triangle: (931.01983642578125, 257.398834228515625), (929.7098388671875, 257.375946044921875), (931.04266357421875, 256.088836669921875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (931.01983642578125, 257.398834228515625), (929.7098388671875, 257.375946044921875), (931.02023526008508725, 257.375946044921875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (931.04266357421875, 256.088836669921875), (929.7098388671875, 257.375946044921875), (931.02023526008508725, 257.375946044921875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 931, hiX = 931
+	Triangle 70 is writing to row 257, column 931
+
+
+ End routine for 70
+
+
+
+ Triangle 71
+
+Triangle: (931.04266357421875, 256.088836669921875), (932.35272216796875, 256.1116943359375), (931.01983642578125, 257.398834228515625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (931.01983642578125, 257.398834228515625), (932.35272216796875, 256.1116943359375), (931.04226527169385008, 256.1116943359375) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (931.04266357421875, 256.088836669921875), (932.35272216796875, 256.1116943359375), (931.04226527169385008, 256.1116943359375) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 932, hiX = 931
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 71
+
+
+
+ Triangle 72
+
+Triangle: (932.329833984375, 257.42169189453125), (931.01983642578125, 257.398834228515625), (932.35272216796875, 256.1116943359375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (932.329833984375, 257.42169189453125), (931.01983642578125, 257.398834228515625), (932.33023335187988323, 257.398834228515625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (932.35272216796875, 256.1116943359375), (931.01983642578125, 257.398834228515625), (932.33023335187988323, 257.398834228515625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 932, hiX = 932
+	Triangle 72 is writing to row 257, column 932
+
+
+ End routine for 72
+
+
+
+ Triangle 73
+
+Triangle: (932.35272216796875, 256.1116943359375), (933.6627197265625, 256.134552001953125), (932.329833984375, 257.42169189453125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (932.329833984375, 257.42169189453125), (933.6627197265625, 256.134552001953125), (932.35232280046398046, 256.134552001953125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (932.35272216796875, 256.1116943359375), (933.6627197265625, 256.134552001953125), (932.35232280046398046, 256.134552001953125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 933, hiX = 932
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 73
+
+
+
+ Triangle 74
+
+Triangle: (933.63983154296875, 257.444549560546875), (932.329833984375, 257.42169189453125), (933.6627197265625, 256.134552001953125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (933.63983154296875, 257.444549560546875), (932.329833984375, 257.42169189453125), (933.64023091047351954, 257.42169189453125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (933.6627197265625, 256.134552001953125), (932.329833984375, 257.42169189453125), (933.64023091047351954, 257.42169189453125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 933, hiX = 933
+	Triangle 74 is writing to row 257, column 933
+
+
+ End routine for 74
+
+
+
+ Triangle 75
+
+Triangle: (933.6627197265625, 256.134552001953125), (934.97271728515625, 256.157440185546875), (933.63983154296875, 257.444549560546875) with color (255, 241, 0)
+Going up triangle:
+	 Triangle: (933.63983154296875, 257.444549560546875), (934.97271728515625, 256.157440185546875), (933.66231982585668447, 256.157440185546875) with color (255, 241, 0)
+Going down triangle:
+	 Triangle: (933.6627197265625, 256.134552001953125), (934.97271728515625, 256.157440185546875), (933.66231982585668447, 256.157440185546875) with color (255, 241, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 934, hiX = 934
+	Triangle 75 is writing to row 257, column 934
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 75
+
+
+
+ Triangle 76
+
+Triangle: (934.9498291015625, 257.467437744140625), (933.63983154296875, 257.444549560546875), (934.97271728515625, 256.157440185546875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (934.9498291015625, 257.467437744140625), (933.63983154296875, 257.444549560546875), (934.95022900226820184, 257.444549560546875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (934.97271728515625, 256.157440185546875), (933.63983154296875, 257.444549560546875), (934.95022900226820184, 257.444549560546875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 935, hiX = 934
+
+
+ End routine for 76
+
+
+
+ Triangle 77
+
+Triangle: (934.97271728515625, 256.157440185546875), (936.28271484375, 256.1802978515625), (934.9498291015625, 257.467437744140625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (934.9498291015625, 257.467437744140625), (936.28271484375, 256.1802978515625), (934.97231791765148046, 256.1802978515625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (934.97271728515625, 256.157440185546875), (936.28271484375, 256.1802978515625), (934.97231791765148046, 256.1802978515625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 935, hiX = 935
+	Triangle 77 is writing to row 257, column 935
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 77
+
+
+
+ Triangle 78
+
+Triangle: (936.2598876953125, 257.49029541015625), (934.9498291015625, 257.467437744140625), (936.28271484375, 256.1802978515625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (936.2598876953125, 257.49029541015625), (934.9498291015625, 257.467437744140625), (936.26028599783728623, 257.467437744140625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (936.28271484375, 256.1802978515625), (934.9498291015625, 257.467437744140625), (936.26028599783728623, 257.467437744140625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 936, hiX = 936
+	Triangle 78 is writing to row 257, column 936
+
+
+ End routine for 78
+
+
+
+ Triangle 79
+
+Triangle: (936.28271484375, 256.1802978515625), (937.59271240234375, 256.203155517578125), (936.2598876953125, 257.49029541015625) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (936.2598876953125, 257.49029541015625), (937.59271240234375, 256.203155517578125), (936.28231654122510008, 256.203155517578125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (936.28271484375, 256.1802978515625), (937.59271240234375, 256.203155517578125), (936.28231654122510008, 256.203155517578125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 937, hiX = 936
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 79
+
+
+
+ Triangle 80
+
+Triangle: (937.56982421875, 257.513153076171875), (936.2598876953125, 257.49029541015625), (937.59271240234375, 256.203155517578125) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (937.56982421875, 257.513153076171875), (936.2598876953125, 257.49029541015625), (937.57022358625476954, 257.49029541015625) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (937.59271240234375, 256.203155517578125), (936.2598876953125, 257.49029541015625), (937.57022358625476954, 257.49029541015625) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 937, hiX = 937
+	Triangle 80 is writing to row 257, column 937
+
+
+ End routine for 80
+
+
+
+ Triangle 81
+
+Triangle: (937.59271240234375, 256.203155517578125), (938.9027099609375, 256.22601318359375), (937.56982421875, 257.513153076171875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (937.56982421875, 257.513153076171875), (938.9027099609375, 256.22601318359375), (937.59231303483886677, 256.22601318359375) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (937.59271240234375, 256.203155517578125), (938.9027099609375, 256.22601318359375), (937.59231303483886677, 256.22601318359375) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 938, hiX = 938
+	Triangle 81 is writing to row 257, column 938
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 81
+
+
+
+ Triangle 82
+
+Triangle: (938.87982177734375, 257.5360107421875), (937.56982421875, 257.513153076171875), (938.9027099609375, 256.22601318359375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (938.87982177734375, 257.5360107421875), (937.56982421875, 257.513153076171875), (938.88022114484863323, 257.513153076171875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (938.9027099609375, 256.22601318359375), (937.56982421875, 257.513153076171875), (938.88022114484863323, 257.513153076171875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 939, hiX = 938
+
+
+ End routine for 82
+
+
+
+ Triangle 83
+
+Triangle: (938.9027099609375, 256.22601318359375), (940.21270751953125, 256.2489013671875), (938.87982177734375, 257.5360107421875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (938.87982177734375, 257.5360107421875), (940.21270751953125, 256.2489013671875), (938.90231006023179816, 256.2489013671875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (938.9027099609375, 256.22601318359375), (940.21270751953125, 256.2489013671875), (938.90231006023179816, 256.2489013671875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 939, hiX = 939
+	Triangle 83 is writing to row 257, column 939
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 83
+
+
+
+ Triangle 84
+
+Triangle: (940.18988037109375, 257.55889892578125), (938.87982177734375, 257.5360107421875), (940.21270751953125, 256.2489013671875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (940.18988037109375, 257.55889892578125), (938.87982177734375, 257.5360107421875), (940.19027920539770093, 257.5360107421875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (940.21270751953125, 256.2489013671875), (938.87982177734375, 257.5360107421875), (940.19027920539770093, 257.5360107421875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 940, hiX = 940
+	Triangle 84 is writing to row 257, column 940
+
+
+ End routine for 84
+
+
+
+ Triangle 85
+
+Triangle: (940.21270751953125, 256.2489013671875), (941.522705078125, 256.271759033203125), (940.18988037109375, 257.55889892578125) with color (253, 240, 1)
+Going up triangle:
+	 Triangle: (940.18988037109375, 257.55889892578125), (941.522705078125, 256.271759033203125), (940.21230921700646377, 256.271759033203125) with color (253, 240, 1)
+Going down triangle:
+	 Triangle: (940.21270751953125, 256.2489013671875), (941.522705078125, 256.271759033203125), (940.21230921700646377, 256.271759033203125) with color (253, 240, 1)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 941, hiX = 940
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 85
+
+
+
+ Triangle 86
+
+Triangle: (941.4998779296875, 257.581756591796875), (940.18988037109375, 257.55889892578125), (941.522705078125, 256.271759033203125) with color (253, 239, 6)
+Going up triangle:
+	 Triangle: (941.4998779296875, 257.581756591796875), (940.18988037109375, 257.55889892578125), (941.50027623221228623, 257.55889892578125) with color (253, 239, 6)
+Going down triangle:
+	 Triangle: (941.522705078125, 256.271759033203125), (940.18988037109375, 257.55889892578125), (941.50027623221228623, 257.55889892578125) with color (253, 239, 6)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 941, hiX = 941
+	Triangle 86 is writing to row 257, column 941
+
+
+ End routine for 86
+
+
+
+ Triangle 87
+
+Triangle: (903.5052490234375, 257.1806640625), (903.48699951171875, 258.2286376953125), (902.1796875, 258.048583984375) with color (247, 235, 43)
+Going up triangle:
+	 Triangle: (903.48699951171875, 258.2286376953125), (902.1796875, 258.048583984375), (903.49013498402916866, 258.048583984375) with color (247, 235, 43)
+Going down triangle:
+	 Triangle: (903.5052490234375, 257.1806640625), (902.1796875, 258.048583984375), (903.49013498402916866, 258.048583984375) with color (247, 235, 43)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	Fragments go from lowX = 903, hiX = 903
+	Triangle 87 is writing to row 258, column 903
+
+
+ End routine for 87
+
+
+
+ Triangle 88
+
+Triangle: (902.17694091796875, 258.205780029296875), (902.1796875, 258.048583984375), (903.48699951171875, 258.2286376953125) with color (253, 238, 11)
+Going up triangle:
+	 Triangle: (903.48699951171875, 258.2286376953125), (902.17694091796875, 258.205780029296875), (903.32103735972259528, 258.205780029296875) with color (253, 238, 11)
+Going down triangle:
+	 Triangle: (902.1796875, 258.048583984375), (902.17694091796875, 258.205780029296875), (903.32103735972259528, 258.205780029296875) with color (253, 238, 11)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+
+ End routine for 88
+
+
+
+ Triangle 89
+
+Triangle: (904.81982421875, 256.941497802734375), (904.79693603515625, 258.25152587890625), (903.5052490234375, 257.1806640625) with color (246, 235, 47)
+Going up triangle:
+	 Triangle: (904.79693603515625, 258.25152587890625), (903.5052490234375, 257.1806640625), (904.81564562031951482, 257.1806640625) with color (246, 235, 47)
+Going down triangle:
+	 Triangle: (904.81982421875, 256.941497802734375), (903.5052490234375, 257.1806640625), (904.81564562031951482, 257.1806640625) with color (246, 235, 47)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	No fragments: lowX = 905, hiX = 904
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	No fragments: lowX = 905, hiX = 904
+
+
+ End routine for 89
+
+
+
+ Triangle 90
+
+Triangle: (903.48699951171875, 258.2286376953125), (903.5052490234375, 257.1806640625), (904.79693603515625, 258.25152587890625) with color (255, 239, 3)
+Going up triangle:
+	 Triangle: (904.79693603515625, 258.25152587890625), (903.48699951171875, 258.2286376953125), (904.76932801980183285, 258.2286376953125) with color (255, 239, 3)
+Going down triangle:
+	 Triangle: (903.5052490234375, 257.1806640625), (903.48699951171875, 258.2286376953125), (904.76932801980183285, 258.2286376953125) with color (255, 239, 3)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	Fragments go from lowX = 904, hiX = 904
+	Triangle 90 is writing to row 258, column 904
+
+
+ End routine for 90
+
+
+
+ Triangle 91
+
+Triangle: (904.81982421875, 256.941497802734375), (906.12982177734375, 256.96435546875), (904.79693603515625, 258.25152587890625) with color (246, 235, 47)
+Going up triangle:
+	 Triangle: (904.79693603515625, 258.25152587890625), (906.12982177734375, 256.96435546875), (904.81942486054856545, 256.96435546875) with color (246, 235, 47)
+Going down triangle:
+	 Triangle: (904.81982421875, 256.941497802734375), (906.12982177734375, 256.96435546875), (904.81942486054856545, 256.96435546875) with color (246, 235, 47)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 258
+	Operating on scanline 257
+	Fragments go from lowX = 905, hiX = 906
+	Triangle 91 is writing to row 257, column 905
+	Triangle 91 is writing to row 257, column 906
+	Operating on scanline 258
+	Fragments go from lowX = 905, hiX = 905
+	Triangle 91 is writing to row 258, column 905
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 91
+
+
+
+ Triangle 92
+
+Triangle: (906.12982177734375, 256.96435546875), (907.43988037109375, 256.98724365234375), (906.10693359375, 258.274383544921875) with color (246, 236, 43)
+Going up triangle:
+	 Triangle: (906.10693359375, 258.274383544921875), (907.43988037109375, 256.98724365234375), (906.1294218859538887, 256.98724365234375) with color (246, 236, 43)
+Going down triangle:
+	 Triangle: (906.12982177734375, 256.96435546875), (907.43988037109375, 256.98724365234375), (906.1294218859538887, 256.98724365234375) with color (246, 236, 43)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 257, hiY = 258
+	Operating on scanline 257
+	Fragments go from lowX = 907, hiX = 907
+	Triangle 92 is writing to row 257, column 907
+	Operating on scanline 258
+	No fragments: lowX = 907, hiX = 906
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 257, hiY = 256
+
+
+ End routine for 92
+
+
+
+ Triangle 93
+
+Triangle: (907.4169921875, 258.2972412109375), (906.10693359375, 258.274383544921875), (907.43988037109375, 256.98724365234375) with color (253, 241, 0)
+Going up triangle:
+	 Triangle: (907.4169921875, 258.2972412109375), (906.10693359375, 258.274383544921875), (907.41739155500476954, 258.274383544921875) with color (253, 241, 0)
+Going down triangle:
+	 Triangle: (907.43988037109375, 256.98724365234375), (906.10693359375, 258.274383544921875), (907.41739155500476954, 258.274383544921875) with color (253, 241, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 258
+	Operating on scanline 257
+	No fragments: lowX = 908, hiX = 907
+	Operating on scanline 258
+	Fragments go from lowX = 907, hiX = 907
+	Triangle 93 is writing to row 258, column 907
+
+
+ End routine for 93
+
+
+
+ Triangle 94
+
+Triangle: (907.43988037109375, 256.98724365234375), (908.74981689453125, 257.010101318359375), (907.4169921875, 258.2972412109375) with color (248, 236, 38)
+Going up triangle:
+	 Triangle: (907.4169921875, 258.2972412109375), (908.74981689453125, 257.010101318359375), (907.43948100358886677, 257.010101318359375) with color (248, 236, 38)
+Going down triangle:
+	 Triangle: (907.43988037109375, 256.98724365234375), (908.74981689453125, 257.010101318359375), (907.43948100358886677, 257.010101318359375) with color (248, 236, 38)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	No fragments: lowX = 908, hiX = 907
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 257, hiY = 257
+	Operating on scanline 257
+	Fragments go from lowX = 908, hiX = 908
+	Triangle 94 is writing to row 257, column 908
+
+
+ End routine for 94
+
+
+
+ Triangle 95
+
+Triangle: (908.72698974609375, 258.320098876953125), (907.4169921875, 258.2972412109375), (908.74981689453125, 257.010101318359375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (908.72698974609375, 258.320098876953125), (907.4169921875, 258.2972412109375), (908.72738804861853623, 258.2972412109375) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (908.74981689453125, 257.010101318359375), (907.4169921875, 258.2972412109375), (908.72738804861853623, 258.2972412109375) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	Fragments go from lowX = 908, hiX = 908
+	Triangle 95 is writing to row 258, column 908
+
+
+ End routine for 95
+
+
+
+ Triangle 96
+
+Triangle: (908.74981689453125, 257.010101318359375), (910.059814453125, 257.032958984375), (908.72698974609375, 258.320098876953125) with color (250, 237, 35)
+Going up triangle:
+	 Triangle: (908.72698974609375, 258.320098876953125), (910.059814453125, 257.032958984375), (908.74941859200646377, 257.032958984375) with color (250, 237, 35)
+Going down triangle:
+	 Triangle: (908.74981689453125, 257.010101318359375), (910.059814453125, 257.032958984375), (908.74941859200646377, 257.032958984375) with color (250, 237, 35)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	Fragments go from lowX = 909, hiX = 909
+	Triangle 96 is writing to row 258, column 909
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+
+ End routine for 96
+
+
+
+ Triangle 97
+
+Triangle: (910.03692626953125, 258.342987060546875), (908.72698974609375, 258.320098876953125), (910.059814453125, 257.032958984375) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (910.03692626953125, 258.342987060546875), (908.72698974609375, 258.320098876953125), (910.03732616092122498, 258.320098876953125) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (910.059814453125, 257.032958984375), (908.72698974609375, 258.320098876953125), (910.03732616092122498, 258.320098876953125) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	Fragments go from lowX = 910, hiX = 910
+	Triangle 97 is writing to row 258, column 910
+
+
+ End routine for 97
+
+
+
+ Triangle 98
+
+Triangle: (910.059814453125, 257.032958984375), (911.369873046875, 257.05584716796875), (910.03692626953125, 258.342987060546875) with color (249, 237, 29)
+Going up triangle:
+	 Triangle: (910.03692626953125, 258.342987060546875), (911.369873046875, 257.05584716796875), (910.0594145617351387, 257.05584716796875) with color (249, 237, 29)
+Going down triangle:
+	 Triangle: (910.059814453125, 257.032958984375), (911.369873046875, 257.05584716796875), (910.0594145617351387, 257.05584716796875) with color (249, 237, 29)
+
+Rasterizing GoingUpTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	No fragments: lowX = 911, hiX = 910
+
+Rasterizing GoingDownTriangle
+	No scanlines: lowY = 258, hiY = 257
+
+
+ End routine for 98
+
+
+
+ Triangle 99
+
+Triangle: (911.34698486328125, 258.3658447265625), (910.03692626953125, 258.342987060546875), (911.369873046875, 257.05584716796875) with color (255, 240, 0)
+Going up triangle:
+	 Triangle: (911.34698486328125, 258.3658447265625), (910.03692626953125, 258.342987060546875), (911.34738423078601954, 258.342987060546875) with color (255, 240, 0)
+Going down triangle:
+	 Triangle: (911.369873046875, 257.05584716796875), (910.03692626953125, 258.342987060546875), (911.34738423078601954, 258.342987060546875) with color (255, 240, 0)
+
+Rasterizing GoingUpTriangle
+	No scanlines: lowY = 259, hiY = 258
+
+Rasterizing GoingDownTriangle
+	Scanlines go from lowY = 258, hiY = 258
+	Operating on scanline 258
+	Fragments go from lowX = 911, hiX = 911
+	Triangle 99 is writing to row 258, column 911
+
+
+ End routine for 99
+
