@@ -1,0 +1,3 @@
+/mnt/d/4th_year/4_2CIS441/project1/project1B/CMakeFiles/rebuild_cache.dir
+/mnt/d/4th_year/4_2CIS441/project1/project1B/CMakeFiles/project1B.dir
+/mnt/d/4th_year/4_2CIS441/project1/project1B/CMakeFiles/edit_cache.dir
